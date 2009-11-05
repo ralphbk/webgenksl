@@ -1,0 +1,20 @@
+<table>
+  <col width="310">
+  <col width="300">
+  <tr>
+     <td valign="top">Standort Schafisheim<br/>
+         Hüttmattschulhaus<br/>
+         Schulstrasse 20<br/>
+         5503 Schafisheim<br/>
+         <br/>
+         Telefon: 062 885 77 62 (Lehrerzimmer)</td>
+     <td valign="top">Kreisschule Lotten<br/>
+         Schulleitung, Sekretariat<br/>
+         Schulstrasse 20<br/>
+         5503 Schafisheim<br/>
+         <br/>
+         Telefon: 062 885 77 52 (Schulleitung)<br/>
+         Telefon: 062 885 77 50 (Sekretariat)</td>
+   </tr>
+</table>
+<iframe width="780" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=de&amp;geocode=&amp;q=Schulstrasse+20,+5503+Schafisheim&amp;sll=47.384055,8.122458&amp;sspn=0.009705,0.025277&amp;ie=UTF8&amp;hq=&amp;hnear=Schulstrasse+20,+5503+Schafisheim,+Aargau&amp;ll=47.38667,8.148422&amp;spn=0.023245,0.066948&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=de&amp;geocode=&amp;q=Schulstrasse+20,+5503+Schafisheim&amp;sll=47.384055,8.122458&amp;sspn=0.009705,0.025277&amp;ie=UTF8&amp;hq=&amp;hnear=Schulstrasse+20,+5503+Schafisheim,+Aargau&amp;ll=47.38667,8.148422&amp;spn=0.023245,0.066948&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Karte  vergrössern</a></small>

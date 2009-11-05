@@ -1,0 +1,143 @@
+<br/>
+<br/>
+<table frame="void" rules="none" style="table-layout:fixed;">
+<col width="30"/>
+<col width="155"/>
+<col width="400"/>
+<col width="50"/>
+<tr>
+<td> </td>
+<td colspan="3"><b>Rupperswil Team</b></td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Burki Sabine</td>
+<td bgcolor="#E0E0E0">Klassenlehrerin 3. Real</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:sabine.burki@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Diesslin Irene</td>
+<td bgcolor="#FFFFFF">Klassenlehrerin 1. Real</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:irene.diesslin@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Murk Gian-Andrea</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 4. Real</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:gian-andrea.murk@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Siegrist Susi</td>
+<td bgcolor="#FFFFFF">Klassenlehrerin 2. Sek</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:susanne.siegrist@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Vock Urs</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 1. Sek</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:urs.vock@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Wyss Peter</td>
+<td bgcolor="#FFFFFF">Klassenlehrer 4. Sek</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:peter.wyss@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Arnold Franz</td>
+<td bgcolor="#E0E0E0">Fachlehrer Werken</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:franz.arnold@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Bächtold Corinne</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Englisch</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:corinne.baechtold@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Barazzutti Simone</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Französisch</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:simone.barazzutti@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Etterli Anette</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Hauswirtschaft</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:annette.etterli@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Hodel Barbara</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Sport</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:barbara.hodel@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Kirchhofer Markus</td>
+<td bgcolor="#FFFFFF">Fachlehrer Deutsch/Engl./Franz.</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:markus.kirchhofer@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Koch Odete</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Sport</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:odete.koch@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Schärer Michèle</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Textiles Werken</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:michele.schaerer@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Vock Verena</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Biologie, BG, E&amp;R</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:verena.vock@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Weiss Marcel</td>
+<td bgcolor="#FFFFFF">Fachlehrer Mathematik/Geogr./Biol.</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:marcel.weiss@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td colspan="3"> </td>
+</tr>
+</table>

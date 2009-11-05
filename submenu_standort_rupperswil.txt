@@ -1,0 +1,6 @@
+Standortleitung	standort_rupperswil_standortleitung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Team	standort_rupperswil_team	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Klassen	standort_rupperswil_klassen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Hausordnung	standort_rupperswil_hausordnung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Lageplan	standort_rupperswil_lageplan	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Projekte	standort_rupperswil_projekte	#FFFFFF	#969696	#000000	#969696	subsubmenu_standort_rupperswil_projekte.txt

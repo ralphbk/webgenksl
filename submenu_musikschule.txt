@@ -1,0 +1,4 @@
+News	musikschule_news	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Rupperswil	musikschule_rupperswil	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Hunzenschwil	musikschule_hunzenschwil	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Schafisheim	musikschule_schafisheim	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

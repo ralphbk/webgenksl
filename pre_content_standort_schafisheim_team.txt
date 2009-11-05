@@ -1,0 +1,12 @@
+Fischer Thomas	Klassenlehrer 4. Sek.	thomas.fischer@kslotten.ch
+Baumann Simon	Klassenlehrer 4. Real.	simon.baumann@kslotten.ch
+Frehner Markus	Klassenlehrer 2. Sek.	markus.frehner@kslotten.ch
+Passerini Thomas	Klassenlehrer 2. Real.	thomas.passerini@kslotten.ch
+Troxler Heidi	Fachlehrerin Sport	heidi.troxler@kslotten.ch
+Merz Trix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
+Lüscher Nicole	Fachlehrerin Hauswirtschaft	nicole.luescher@kslotten.ch
+Lehner Béatrice	Fachlehrerin Hauswirtschaft	beatrice.lehner@kslotten.ch
+Frehner Regula	Fachlehrerin Französisch	regula.frehner@kslotten.ch
+Ferrara Joseph	Fachlehrer Werken	josef.ferrara@kslotten.ch
+Barazzutti Simone	Fachlehrerin Französisch	simone.barazzutti@kslotten.ch
+Ravnikar Eva	Fachlehrerin Englisch	eva.ravnikar@kslotten.ch

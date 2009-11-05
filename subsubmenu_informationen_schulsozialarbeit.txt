@@ -1,0 +1,4 @@
+NODISPLAY	informationen_schulsozialarbeit		#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Eltern		informationen_schulsozialarbeit_eltern	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Schuler/innen	informationen_schulsozialarbeit_schulerinnen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Lehrpersonen	informationen_schulsozialarbeit_lehrpersonen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

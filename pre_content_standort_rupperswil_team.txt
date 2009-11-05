@@ -1,0 +1,16 @@
+Burki Sabine	Klassenlehrerin 3. Real	sabine.burki@kslotten.ch
+Diesslin Irene	Klassenlehrerin 1. Real	irene.diesslin@kslotten.ch
+Murk Gian-Andrea	Klassenlehrer 4. Real	gian-andrea.murk@kslotten.ch
+Siegrist Susi	Klassenlehrerin 2. Sek	susanne.siegrist@kslotten.ch
+Vock Urs	Klassenlehrer 1. Sek	urs.vock@kslotten.ch
+Wyss Peter	Klassenlehrer 4. Sek	peter.wyss@kslotten.ch
+Arnold Franz	Fachlehrer Werken	franz.arnold@kslotten.ch
+Bächtold Corinne	Fachlehrerin Englisch	corinne.baechtold@kslotten.ch
+Barazzutti Simone	Fachlehrerin Französisch	simone.barazzutti@kslotten.ch
+Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
+Hodel Barbara	Fachlehrerin Sport	barbara.hodel@kslotten.ch
+Kirchhofer Markus	Fachlehrer Deutsch/Engl./Franz.	markus.kirchhofer@kslotten.ch
+Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
+Schärer Michèle	Fachlehrerin Textiles Werken	michele.schaerer@kslotten.ch
+Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
+Weiss Marcel	Fachlehrer Mathematik/Geogr./Biol.	marcel.weiss@kslotten.ch

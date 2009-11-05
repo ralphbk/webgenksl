@@ -1,0 +1,19 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="300" valign="top"><b>Schulleitung<br/><br/></b>
+			Michael Schwendener<br/>
+			Schulleitung Kreisschule Lotten<br/>
+			Schulstrasse 20<br/>
+			5503 Schafisheim<br/>
+			Tel. 062 885 77 52<br/>
+			Fax  062 885 77 53<br/>
+			<a href="mailto:schulleitung@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		</td>
+<!--
+		<td width="300" valign="top"><img src="images/Michael_Schwendener_m.jpg" height="300" width="223" border="0"><br/></td>
+-->
+	</tr>
+</table>

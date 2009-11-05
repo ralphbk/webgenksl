@@ -1,0 +1,6 @@
+Schulleitung	informationen_schulleitung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Schulverwaltung	informationen_schulverwaltung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Schulsozialarbeit	informationen_schulsozialarbeit	#FFFFFF	#969696	#000000	#969696	subsubmenu_informationen_schulsozialarbeit.txt
+Schulsport	informationen_schulsport	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Kreisschulpflege	informationen_kreisschulpflege	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Organigramm	informationen_organigramm	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

@@ -1,0 +1,15 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="300" valign="top"><b>Standortleitung Hunzenschwil<br/><br/></b>
+		Meier Franziska<br/>
+		Oberstufenschulhaus<br/>
+		5502 Hunzenschwil<br/>
+		Tel. 062 889 03 92<br/>
+		<a href="mailto:franziska.meier@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		</td>
+		<td width="300" valign="top"><br/></td>
+	</tr>
+</table>

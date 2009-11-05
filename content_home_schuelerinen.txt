@@ -1,0 +1,155 @@
+<p style="font-family:verdana; font-size:12pt;">
+<table border=0 frame=none rules=none style="table-layout:fixed; border-collapse:collapse;" cellspacing=0>
+	<tr>
+		<td width="35"></td>
+		<td><strong>Biologie<br/></strong></td>
+		<td width="30"></td>
+		<td><strong>Mathematik<br /></strong></td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.gene-abc.ch" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.gene-abc.ch</td>
+		<td width="30"><b><a href="http://www.mathematik.net/homepage/lehrgang.htm" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.mathematik.net/homepage/lehrgang.htm</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.bfq.ch/biofotoquiz/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.bfq.ch/biofotoquiz/</td>
+		<td width="30"><b><a href="http://wunderland.hirnwindungen.de/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://wunderland.hirnwindungen.de/</td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td>&nbsp;</td>
+		<td width="30"><b><a href="http://www.mathe-online.at/mni/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.mathe-online.at/mni/</td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td><strong>Chemie<br/></strong></td>
+		<td width="30"><b><a href="http://www.mathe-spass.de/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.mathe-spass.de/</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.seilnacht.com/Chemie.htm" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.seilnacht.com/Chemie.htm</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+	<td width="35"></td>
+		<td>&nbsp;</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td><strong>Deutsch<br/></strong></td>
+		<td width="30"></td>
+		<td><strong>Verschiedene Fachbereiche<br/></strong></td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.deutschalsfremdsprache.in/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.deutschalsfremdsprache.in/</td>
+		<td width="30"><b><a href="http://www.lernen-mit-spass.ch" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.lernen-mit-spass.ch</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.rechtschreib-werkstatt.de/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.rechtschreib-werkstatt.de/</td>
+		<td width="30"><b><a href="http://www.lernareal.ch" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.lernareal.ch</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.passwort-deutsch.de/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.passwort-deutsch.de/</td>
+		<td width="30"><b><a href="http://www.lernumgebung.ch" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.lernumgebung.ch</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.vocabulix.com" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.vocabulix.com</td>
+		<td width="30"><b><a href="http://www.allgemeinbildung.ch/home.htm" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.allgemeinbildung.ch</td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td>&nbsp;</td>
+		<td width="30"><b><a href="http://www.planet-schule.de/sf/03_wis06.php" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.planet-schule.de/sf/03_wis06.php</td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td><strong>Englisch<br/></strong></td>
+		<td width="30"><b><a href="http://onlinetest.lingofox.de/de/uebung.htm" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://onlinetest.lingofox.de/de/uebung.htm</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.vocabulix.com" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.vocabulix.com</td>
+		<td width="30"><b><a href="http://aula.bias.ch/materialien/anderematerialien/index.html" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://aula.bias.ch/materialien/anderematerialien/index.html</td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.englisch-hilfen.de" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.englisch-hilfen.de</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.englisch-lernen-im-internet.de" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.englisch-lernen-im-internet.de</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td>&nbsp;&nbsp;</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td><strong>Geografie<br/></strong></td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.userlearn.ch/geo/" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.userlearn.ch/geo</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td></td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td>&nbsp;</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"></td>
+		<td><strong>Geschichte<br/></strong></td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.lernburg.ch/home.html" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.lernburg.ch/home.html</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="35"><b><a href="http://www.geschichte-schweiz.ch" target="_blank"><img src="link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>http://www.geschichte-schweiz.ch</td>
+		<td width="30"></td>
+		<td></td>
+	</tr>
+</table>
+</p>
+	

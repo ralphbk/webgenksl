@@ -1,0 +1,20 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="300" valign="top"><b>Schulsozialarbeit<br/><br/></b>
+			Mirijam Malitius<br/>
+			Kreisschule Lotten<br/>
+			Mizeligasse<br/>
+			5502 Hunzenschwil<br/>
+			062 889 02 82<br/>
+			079 566 07 96<br/>
+			(Di - Do)<br/>
+			<a href="mailto:mirjam.malitius@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		</td>
+<!--
+		<td width="300" valign="top"><img src="images/malitius.jpg" height="150" width="150" border="0"><br/></td>
+-->
+	</tr>
+</table>

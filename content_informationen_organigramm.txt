@@ -1,0 +1,12 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="600" valign="top"><b>Organigramm der Kreisschule Lotten<br/><br/></b></td>
+	</tr>
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="600" align="center"><img width="600" src="images/KSPL_Organigramm_090201.jpg" alt=""/></td>
+	</tr>
+</table>

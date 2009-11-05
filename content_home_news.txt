@@ -1,0 +1,26 @@
+<br/><br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<col width="30"/>
+	<col width="450" valign="top"/>
+	<col width="30"/>
+	<col width="265" valign="top"/>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><b>News</b></td>
+		<td>&nbsp;</td>
+		<td align="right">&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Zur Zeit keine!</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>

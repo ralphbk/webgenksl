@@ -1,0 +1,6 @@
+Standortleitung	standort_hunzenschwil_standortleitung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Team	standort_hunzenschwil_team	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Klassen	standort_hunzenschwil_klassen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Hausordnung	standort_hunzenschwil_hausordnung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Lageplan	standort_hunzenschwil_lageplan	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Projekte	standort_hunzenschwil_projekte	#FFFFFF	#969696	#000000	#969696	subsubmenu_standort_hunzenschwil_projekte.txt
