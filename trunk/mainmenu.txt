@@ -1,0 +1,6 @@
+  	home	submenu_home.txt	home	#FFFFFF	#969696	#000000	#969696	#969696	#969696	12pt	normal	16pt	bold
+Informationen	Kreisschule	submenu_informationen.txt	informationen_schulleitung	#808080	#C0C0C0	#000000	#C0C0C0	#000000	#969696	12pt	normal	16pt	bold	
+Standort	Rupperswil	submenu_standort_rupperswil.txt	standort_rupperswil_standortleitung	#808080	#C0C0C0	#000000	#C0C0C0	#000000	#969696	12pt	normal	16pt	bold
+Standort	Hunzenschwil	submenu_standort_hunzenschwil.txt	standort_hunzenschwil_standortleitung	#808080	#C0C0C0	#000000	#C0C0C0	#000000	#969696	12pt	normal	16pt	bold
+Standort	Schafisheim	submenu_standort_schafisheim.txt	standort_schafisheim_standortleitung	#808080	#C0C0C0	#000000	#C0C0C0	#000000	#969696	12pt	normal	16pt	bold
+   	Musikschule	submenu_musikschule.txt	musikschule_news	#808080	#C0C0C0	#000000	#C0C0C0	#000000	#969696	12pt	normal	16pt	bold

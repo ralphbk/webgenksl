@@ -1,0 +1,3 @@
+NODISPLAY	standort_rupperswil_projekte	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Projekt_Foo	standort_rupperswil_projekte_projekt_foo	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Projekt_Bah	standort_rupperswil_projekte_projekt_bah	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

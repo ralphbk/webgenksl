@@ -1,0 +1,15 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="300" valign="top"><b>Standortleitung Schafisheim<br/><br/></b>
+		Passerini Thomas<br/>
+		Schulhaus Hüttmatt<br/>
+		5503 Schafisheim<br/>
+		Tel. 062 885 77 54<br/>
+		<a href="mailto:thomas.passerini@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		</td>
+		<td width="300" valign="top"><br/></td>
+	</tr>
+</table>

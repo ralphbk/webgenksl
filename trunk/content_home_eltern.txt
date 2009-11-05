@@ -1,0 +1,88 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td><b>Links Berufswahl und Beratung<br/></b></td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.berufskunde.com/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsbilder</td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.beratungsdienste-aargau.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsinformationszentrum (Beratungsdienste AG)</td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.bslenzburg.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsschule Lenzburg</td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.bs-aarau.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsschule Aarau</td>
+		<td width="30"><b><a href="http://www.ag.ch/lena/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Lehrstellennachweis</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.bbbaden.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsschule Baden</td>
+		<td width="30"><b><a href="http://www.ag.ch/berufsbildung/de/pub/brueckenangebote.php" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Br&uuml;ckenangebote (10.Schuljahr)</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.liebegg.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsbildung &amp; Fachstelle Landwirtschaft</td>
+		<td width="30"><b><a href="http://www.basic-check.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Basic Check</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.kvnet.ch/menu/index.htm" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>KV Business School Lenzburg-Reinach</td>
+		<td width="30"><b><a href="http://www.multicheck.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Multicheck</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.aarau.ch/xml_1/internet/de/application/d127/f996.cfm" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsberatung Aargau</td>
+		<td><b><a href="http://www.lehrstellenboerse.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Lehrstellenb&ouml;rse</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.berufsberatung.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Berufsberatung Schweiz</td>
+		<td width="30"><b><a href="http://www.stellwerk-check.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Check 8</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="informationen_schulsozialarbeit.html"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schulpsychologischer Dienst</td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.ag.ch/studienberatung/de/pub/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Studienberatung Aargau</td>
+		<td width="30"><b><a href="http://www.aarauonline.ch/edu/edu.htm" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>aarau online</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.suchthilfe-avs.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Suchthilfe Aargau</td>
+		<td width="30"><b><a href="mitglieder_jako_2008.pdf" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Mitglieder Jugendarbeitskommission JAKO</td>
+	</tr>
+	<tr>
+		<td><b><a href="elternbrief.pdf" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Elternratgeber - Die Gemeinden handeln</td>
+		<td width="30"><b><a href="http://www.jugendarbeit-lotten.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Regionale Jugendarbeit Lotten (RJL)</td>
+	</tr>
+</table>

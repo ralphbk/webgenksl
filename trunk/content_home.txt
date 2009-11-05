@@ -1,0 +1,37 @@
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<col width="30"/>
+	<col width="450" valign="top"/>
+	<col width="30"/>
+	<col width="265" valign="top"/>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><br/><br/><b>Herzlich willkommen auf der Website der Kreisschule Lotten!</b></td>
+		<td>&nbsp;</td>
+		<td align="right"><img src="images/ksl_logo_152_135.gif" border="0" alt=""/></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td colspan="3"><br/><br/>In diesem Schuljahr steht der Leitsatz 1 im Zentrum unseres Handelns:</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td colspan="3"><br/><b>1. Gemeinsame pädagogische Haltung</b></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td colspan="3">
+		<ul>
+		<li>Im Umgang mit unseren Schülerinnen und Schülern sind uns Wohlwollen, Akzeptanz und Wertschätzung wichtig.</li>
+	        <li>Wir setzen gemeinsam Grenzen und achten auf deren Einhaltung.</li>
+         	<li>Wir achten auf regelmässigen Austausch in pädagogischen Fragen und überprüfen dabei auch unsere pädagogische Haltung.</li>
+		</ul>
+		</td>
+	</tr>
+</table>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>

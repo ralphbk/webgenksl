@@ -1,0 +1,76 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td valign="top" width="35"><b><a href="ftp://lehrperson.kslotten.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td colspan="3"><strong>Dokumente Lehrpersonen</strong><br/>
+				Downloadbereich für Dokumente und Formulare.<br/><br/></td>
+	</tr>
+</table>
+
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td valign="top" width="35"><b><a href="http://www.imedias.ch/lernmedien" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td colspan="3"><strong>Imedias</strong><br/>
+             Die Beratungsstelle f&uuml;r digitale Medien in Schule und Unterricht der Fachhochschule Nordwestschweiz.<br/>
+		 Bietet viele Lernmedien, welche offline oder online zur Verf&uuml;gung stehen.<br/><br/></td>
+	</tr>
+</table>
+
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td><b>Schulen und Gemeinden</b></td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.aarau.ch/xml_1/internet/de/application/d127/f996.cfm" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schulen Aarau</td>
+		<td width="30"><b><a href="http://www.ksbr.ch/risiacher/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Buchs</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.biberstein-ag.ch/schule/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Biberstein</td>
+		<td width="30"><b><a href="http://www.schule-hunzenschwil.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Hunzenschwil</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.ksbr.ch/ksbr.asp" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Buchs-Rohr Kreisschule</td>
+		<td width="30"><b><a href="http://www.schule-lenzburg.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schulen Lenzburg</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.schulen5103.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>M&ouml;riken-Wildegg Kreisschule</td>
+		<td width="30"><b><a href="http://www.schuleniederlenz.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Niederlenz</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.steinerschule-aargau.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Steiner Schule Schafisheim</td>
+		<td width="30"><b><a href="http://www.schulenrupperswil.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Rupperswil</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.schule-suhr.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schulen Suhr</td>
+		<td width="30"><b><a href="http://schule-schafisheim.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Schafisheim</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.hunzenschwil.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Gemeinde Hunzenschwil</td>
+		<td width="30"><b><a href="http://www.rupperswil.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Gemeinde Rupperswil</td>
+	</tr>
+	<tr>
+		<td width="30"><b><a href="http://www.schafisheim.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Gemeinde Schafisheim</td>
+		<td width="30">&nbsp;</td>
+		<td></td>
+	</tr>
+</table>
+	

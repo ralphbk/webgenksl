@@ -1,0 +1,17 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="300" valign="top"><b>Schulverwaltung<br/><br/></b>
+		Ramer Sonja<br/>
+		Sekretariat Kreisschule Lotten<br/>
+		Schulstrasse 20<br/>
+		5503 Schafisheim<br/>
+		Tel. 062 885 77 52<br/>
+		Fax  062 885 77 59<br/>
+		<a href="mailto:sekretariat@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		</td>
+		<td width="300" valign="top"><br/></td>
+	</tr>
+</table>

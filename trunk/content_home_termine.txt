@@ -1,0 +1,119 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<col width="30"/>
+	<col width="200" valign="top"/>
+	<col width="400" valign="top"/>
+	<tr>
+		<td>&nbsp;</td>
+  		<td><b>Schuljahr 2009 / 2010</b></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>26. November 2009</td>
+		<td>Informationsabend der Suchtpräventionsstelle Aarau "Voll ins Wochenende" um 19:30 Uhr in Hunzenschwil (Einladung folgt)</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>22. Februar 2010</td>
+		<td>Weiterbildung Lehrpersonen, Schulunterricht fällt <u>am Vormittag</u> aus</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>08. - 12. März 2010</td>
+		<td>Projektwoche mit Skilagern</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>07. Mai 2010</td>
+		<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td></td>
+	</tr>
+</table>
+
+<table rules="none" border="0" frame="void" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<col width="30"/>
+	<col width="200"/>
+	<col width="200"/>
+	<col width="200"/>	
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+  		<td><b>Ferienplan 2009 / 2010</b></td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><br/></td>
+		<td><b>Letzter Schultag</b></td>
+		<td><b>Erster Schultag</b></td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Schuljahrbeginn</td>
+		<td></td>
+		<td>10. August 2009</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Herbstferien</td>
+		<td>25. September 2009</td>
+		<td>19. Oktober 2009</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Weihnachtsferien</td>
+		<td>18. Dezember 2009</td>
+		<td>4. Januar 2010</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Sportferien</td>
+		<td>22. Januar 2010</td>
+		<td>8. Februar 2010</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Fr&uuml;hlingsferien</td>
+		<td>9. April 2010</td>
+		<td>26. April 2010</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td>Sommerferien</td>
+		<td>9. Juli 2010</td>
+		<td>9. August 2010</td>
+	</tr>
+</table>
+	
