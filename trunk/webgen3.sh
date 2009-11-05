@@ -310,6 +310,7 @@ echo 			\</table\> >> $HTMLOUTFILE
 echo 		\</td\> >> $HTMLOUTFILE
 echo 	\</tr\> >> $HTMLOUTFILE
 echo \</table\> >> $HTMLOUTFILE
+cat include-google-analytics.txt >> $HTMLOUTFILE
 echo \</body\> >> $HTMLOUTFILE
 echo \</html\> >> $HTMLOUTFILE
 
