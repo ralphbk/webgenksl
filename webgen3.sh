@@ -98,7 +98,7 @@ echo Realschule >> $HTMLOUTFILE
 echo Kleinklasse >> $HTMLOUTFILE
 echo Sekundarschule\" /\> >> $HTMLOUTFILE
 echo 		\<meta name=\"description\" content=\"Willkommen auf der Homepage der Kreisschule Lotten. Die Gemeinden Hunzenschwil, Rupperswil und Schafisheim f\&uuml\;hren ihre Oberstufe seit 2004 gemeinsam unter der Bezeichnung Kreisschule Lotten.\" /\> >> $HTMLOUTFILE
-echo 		\<meta name=\"author\" content=\"%author%\" /\> >> $HTMLOUTFILE
+echo 		\<meta name=\"author\" content=\"${author}\" /\> >> $HTMLOUTFILE
 echo 		\<meta name=\"language\" content=\"de >> $HTMLOUTFILE
 echo ch\' >> $HTMLOUTFILE
 echo at\" /\> >> $HTMLOUTFILE
