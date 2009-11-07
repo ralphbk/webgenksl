@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --------------------------------------------------------------------------
-# webgen_team.bat - Creating the content_standort_XYZ_team.txt file.
+# webgen_klassen.bat - Creating the content_standort_XYZ_klassen.txt file.
 # --------------------------------------------------------------------------
 
 title=$1
@@ -43,7 +43,7 @@ counter=0
 OLD_IFS=$IFS
 IFS=`/bin/echo -ne "\t\n"`
 
-while read name func email
+while read klasse name email
 do
 	counter=$((counter+1))
 	if [ $((counter % 2)) -eq 0 ]
@@ -55,8 +55,8 @@ do
 
 	echo 	\<tr\> >> $outputcontentfile
 	echo            \<td\> \</td\> >> $outputcontentfile
+	echo 		\<td bgcolor=\"${backcol}\"\>$klasse\</td\>  >> $outputcontentfile
 	echo 		\<td bgcolor=\"${backcol}\"\>$name\</td\>  >> $outputcontentfile
-	echo 		\<td bgcolor=\"${backcol}\"\>$func\</td\>  >> $outputcontentfile
 	# deal with the missing email param $email in the next line later ...
 	echo 		\<td bgcolor=\"${backcol}\"\> >> $outputcontentfile
 	echo			\<a href=\"mailto:${email}\" style=\"text-decoration:none\"\>\<img src=\"images/mail.gif\" border=\"0\" alt=\"email\"/\>\</a\>  >>$outputcontentfile
