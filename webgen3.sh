@@ -257,7 +257,16 @@ do
 				backcol=$defbackcol
 			fi
 			echo \<tr\> >> $HTMLOUTFILE
-			echo   \<td height=\"30\" bgcolor=\"${backcol}\"\>\<font style=\"font-family:${headerfontfamily}\; font-size:12pt\; color:${textcol}\"\>\&nbsp\;\&nbsp\;\&nbsp\;\&nbsp\;\<a href=\"${subsubcontentbasename}.html\" style=\"text-decoration:none\; color:${textcol}\"\>${subsubmenutitle//_/ }\</a\>\</font\>\</td\>  >> $HTMLOUTFILE
+			echo   \<td\> >> $HTMLOUTFILE
+                        echo     \<table rules=\"none\" width=\"${columnwidth}\" border=\"0\" frame=\"void\" style=\"table-layout:fixed\; border-collapse:collapse\;\" cellspacing=\"0\"\> >> $HTMLOUTFILE
+			echo       \<col width=\"20\"/\> >> $HTMLOUTFILE
+			echo       \<col width=\"135\"/\> >> $HTMLOUTFILE
+			echo       \<tr\> >> $HTMLOUTFILE
+			echo         \<td height=\"30\" bgcolor=\"${backcol}\"\>\<font style=\"font-family:${headerfontfamily}\; font-size:12pt\; color:${textcol}\"\>\&nbsp\;\</font\>\</td\>  >> $HTMLOUTFILE
+			echo         \<td height=\"30\" bgcolor=\"${backcol}\"\>\<font style=\"font-family:${headerfontfamily}\; font-size:12pt\; color:${textcol}\"\>\<a href=\"${subsubcontentbasename}.html\" style=\"text-decoration:none\; color:${textcol}\"\>${subsubmenutitle//_/ }\</a\>\</font\>\</td\>  >> $HTMLOUTFILE
+			echo       \</tr\> >> $HTMLOUTFILE
+                        echo     \</table\> >> $HTMLOUTFILE
+			echo   \</td\> >> $HTMLOUTFILE
 			echo \</tr\> >> $HTMLOUTFILE
 		done < $subsubmenufile
 	fi
