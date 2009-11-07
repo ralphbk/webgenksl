@@ -14,6 +14,9 @@ echo Processing pre-content ...
 ./webgen_team.sh "Rupperswil Team" content_standort_rupperswil_team.txt
 ./webgen_team.sh "Hunzenschwil Team" content_standort_hunzenschwil_team.txt
 ./webgen_team.sh "Schafisheim Team" content_standort_schafisheim_team.txt
+./webgen_klassen.sh "Rupperswil Klassen" content_standort_rupperswil_klassen.txt
+./webgen_klassen.sh "Hunzenschwil Klassen" content_standort_hunzenschwil_klassen.txt
+./webgen_klassen.sh "Schafisheim Klassen" content_standort_schafisheim_klassen.txt
 
 # --------------------------------------------------------------------------
 # Steps through the main menu items, calling webgen2.bat with the following 
