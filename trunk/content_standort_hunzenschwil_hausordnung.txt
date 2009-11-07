@@ -1,10 +1,121 @@
 <br/>
 <br/>
 <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
-	<tr>
-		<td width="30">&nbsp;</td>
-		<td width="400"><b>Hausordnung Hunzenschwil</b>
-              <a href="documents/HunzenschwilAuszugSchulordnung2007neu.pdf" target="_blank">
-              <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a><br/></td>
-	</tr>
+  <col width="30"/>
+  <col width="600"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Schule Hunzenschwil Schulhausordnung</b>
+      <a href="documents/HunzenschwilAuszugSchulordnung2007neu.pdf" target="_blank">
+        <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a><br/>
+      <br/>
+      <p>Auszug aus der Schulordnung der Schule Hunzenschwil</p>
+      <p>Bestandteil der Schulordnung Kreisschule Lotten</p>
+      <p>Hunzenschwil, Januar 2008</p>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <p><b>Schulhausordnung</b></p>
+      <p>Um einen geregelten Schulunterricht gewährleisten zu können, bitten wir Sie, geehrte Eltern, mit Ihrem
+      Kind folgende Punkte zu besprechen:</p>
+      <ol style="font-weight:bold" start="2">
+        <li>Schulbeginn:
+          <ol style="font-weight:normal">
+            <li>Es wird von den Schülerinnen und Schülern verlangt, dass sie nicht
+                früher als 15 Minuten vor dem ersten Glockenzeichen auf dem
+                Schulhausareal (Pausenplatz) erscheinen.</li>
+            <li>Das Schulhaus darf nicht vor dem ersten Glockenzeichen betreten
+                werden.</li>
+          </ol>
+          <br/>
+        </li>
+        <li>Schulweg:
+          <ol style="font-weight:normal" start="2">
+            <li>Den Schülerinnen und Schülern der 5. Klasse ist im letzten Quartal
+                zwischen Frühlings- und Sommerferien gestattet, mit Velos in die
+                Schule zu fahren. Nur auswärtigen Schülerinnen und Schülern wird
+                ein gedeckter Abstellplatz zur Verfügung gestellt. In Hunzenschwil
+                wohnhafte Schülerinnen und Schüler haben ihre Zweiräder auf den
+                speziell gekennzeichneten Plätzen abzustellen. Die Schule
+                (Gemeinde) haftet nicht für Diebstähle und Schäden an Velos,
+                Kickboards und Mofas.</li>
+            <li>Die Schülerinnen und Schüler werden angehalten, sich sofort nach
+                Schulschluss nach Hause zu begeben.</li>
+          </ol>
+          <br/>
+        </li>
+        <li>Pause:
+          <ol style="font-weight:normal">
+            <li>In der grossen Pause verlassen alle Schülerinnen und Schüler das
+                Gebäude.</li>
+            <li>Der Aufenthalt in Schulzimmern, in den Gängen und in den WCAnlagen
+                ist nicht erlaubt.</li>
+            <li>Speisen, Getränke sowie Kaugummis sind nur ausserhalb der
+                Schulhäuser und Turnhallen erlaubt.</li>
+            <li>Das Benützen jeglicher elektronischer Geräte (Natel, Discman, MP3-
+                Player, usw.) ist nicht gestattet.</li>
+            <li>Waffen jeglicher Art sind auf dem Schulhausareal verboten (inkl.
+                Taschenmesser/Feuerzeuge).</li>
+            <li>In den Pausen dürfen die Schülerinnen und Schüler den Pausenplatz
+                nur mit ausdrücklicher Erlaubnis der Lehrperson verlassen.</li>
+          </ol>
+          <br/>
+        </li>
+        <li>Pausenplatz:
+          <ol style="font-weight:normal">
+            <li>Als Pausenplatz gilt der Asphaltplatz vor den Schulhäusern, die Arena
+                und der Trockenplatz.</li>
+            <li>Ballspiele sind nur auf dem Trockenplatz und mit kleinen Bällen in der
+                Arena gestattet.</li>
+            <li>Den Spielgeräten, Pflanzen und der gesamten Infrastruktur muss
+                Sorge getragen werden.</li>
+            <li>Auf dem gesamten Schulareal herrscht Fahrverbot für Motorfahrräder.
+                Das Velo-, Rollschuh- und Rollbrettfahren ist während den
+                Schulzeiten von 7.00 Uhr bis 17.00 Uhr zu unterlassen
+                (ausgenommen Mittwochnachmittag).</li>
+            <li>Das Kletterbaumareal ist während den Pausen den Schülerinnen und
+                Schülern der Primarschule vorbehalten.</li>
+            <li>Schneeballwerfen ist nur auf dem Trockenplatz erlaubt.</li>
+          </ol>
+          <br/>
+        </li>
+        <li>Schulgebäude:
+          <ol style="font-weight:normal">
+            <li>Die Schülerinnen und Schüler haben zu den Schulgebäuden, dem
+                Schulmobiliar und zu den Lehrmitteln Sorge zu tragen. Mutwillige
+                Beschädigungen an Gebäude und Mobiliar werden auf Kosten der
+                Verursacher in Stand gestellt. Beschädigtes oder verlorenes
+                Schulmaterial wird den betroffenen Schülerinnen und Schülern in
+                Rechnung gestellt.</li>
+          </ol>
+          <br/>
+        </li>
+        <li>Benehmen:
+          <ol style="font-weight:normal">
+            <li>Die Weisungen der Lehrpersonen und der Schulleitung sowie die
+                Anordnungen der Hauswarte sind zu befolgen.</li>
+            <li>Das Lärmen und Herumtoben (Fangis, Versteckspiel, etc.) in den
+                Schulzimmern, in den Gängen und im Treppenhaus ist verboten.</li>
+            <li>Auf den Boden spucken ist untersagt.</li>
+          </ol>
+          <br/>
+        </li>
+        <li value="11">Kant. Schulverordnung
+          <ol style="font-weight:normal">
+             <li>Die aufgeführten Punkte basieren auf der kantonalen Schulverordnung 
+                 für die Volksschule und wurden den Verhältnissen in Hunzenschwil
+                 angepasst.</li>
+             <li>Die Eltern sind gebeten, ihre Kinder mit den oben genannten
+                 Weisungen vertraut zu machen und sie auf ein entsprechendes
+                 Verhalten hinzuweisen.</li>
+             <li>Bei Zuwiderhandlungen gegen diese Schulordnung behalten sich die
+                 Lehrerschaft, Schulleitung und die Schulpflege vor, eine angemessene
+                 Strafe anzusetzen.</li>
+           </ol>
+        </li>
+      </ol>
+    </td>
+  </tr>
 </table>
