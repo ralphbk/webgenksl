@@ -1,5 +1,1 @@
-NODISPLAY	standort_hunzenschwil_projekte	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_A	standort_hunzenschwil_projekte_projekt_a	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_B	standort_hunzenschwil_projekte_projekt_b	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_C	standort_hunzenschwil_projekte_projekt_c	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_D	standort_hunzenschwil_projekte_projekt_d	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Volkslauf	standort_hunzenschwil_projekte_volkslauf	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

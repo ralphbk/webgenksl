@@ -1,0 +1,66 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>4. Sek. Hunzenschwil am Volkslauf vom 26. April 2009 in Aarau</b></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <table width="638" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+          <td width="150">&nbsp;&nbsp;</td>
+          <td width="9"></td>
+          <td width="150"></td>
+          <td width="9"></td>
+          <td width="150"></td>
+          <td width="9"></td>
+          <td width="150"></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td colspan="8">Einige Sch&uuml;lerinnen und Sch&uuml;ler der 4. Sek. Hunzenschwil haben am Volkslauf 
+                          in Aarau teilgenommen und sind an einem heissen Sonntag, ihrem letzten Ferientag, 3,5 km 
+                          der Aare entlang gelaufen. Es wurden sogar zwei 3. Pl&auml;tze geholt.
+                          <br />
+                          &nbsp;<br />
+          </td>
+        </tr>
+        <tr>
+          <td colspan="8" align="right">Janine Tiss</td>
+        </tr>
+        <tr>
+          <td><br/>Bitte Fotos anklicken</td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td align="right"></td>
+          <td colspan="3" align="right" width="309"></td>
+          <td align="right"></td>
+        </tr>
+        <tr>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf01.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl01.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td width="9"></td>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf02.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl02.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td width="9"></td>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf03.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl03.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td width="9"></td>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf04.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl04.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td></td>
+         </tr>
+         <tr>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf05.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl05.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td width="9"></td>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf06.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl06.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td width="9"></td>
+           <td width="150"><a href="standort_hunzenschwil_projekte_volkslauf/volkslauf07.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_volkslauf/volkslauf_kl07.jpg" alt="" height="200" width="150" border="0" /></a></td>
+           <td width="9"></td>
+           <td width="150"></td>
+           <td></td>
+         </tr>
+      </table>
+    </td>
+  </tr>
+</table>
