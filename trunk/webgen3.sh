@@ -48,6 +48,7 @@ defaultfontstyle="\"font-family:${headerfontfamily}; font-size:11pt; color:${hea
 
 columnwidth=155
 toprowheight=126
+contentwidth=775
 
 menulinkstyle="\"text-decoration:none\""
 
@@ -283,7 +284,7 @@ echo 		\</td\> >> $HTMLOUTFILE
 # --------------------------------------------------------------------------
 
 echo 		\<td colspan=\"5\" valign=\"top\"\> >> $HTMLOUTFILE
-echo 			\<table rules=\"none\" border=\"0\" frame=\"void\" style=\"table-layout:fixed\; border-collapse:collapse\;\" cellspacing=\"0\"\> >> $HTMLOUTFILE
+echo 			\<table width=\"${contentwidth}\" rules=\"none\" border=\"0\" frame=\"void\" style=\"table-layout:fixed\; border-collapse:collapse\;\" cellspacing=\"0\"\> >> $HTMLOUTFILE
 
 # --------------------------------------------------------------------------
 # Add the picture that goes with the menu selected, above the main content
