@@ -1,0 +1,21 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+
+	<col width ="30"/>
+	<col width ="30"/>
+	<col width ="570"/>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.schule-schafisheim.ch/index.php?option=com_content&task=view&id=47&Itemid=96" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td><strong>Musikschule Schafisheim<br/></strong></td>
+	</tr>
+</table>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
