@@ -1,5 +1,3 @@
-NODISPLAY	standort_schafisheim_projekte	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_1	standort_schafisheim_projekte_projekt_1	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_2	standort_schafisheim_projekte_projekt_2	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_3	standort_schafisheim_projekte_projekt_3	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekt_4	standort_schafisheim_projekte_projekt_4	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Egypten	standort_schafisheim_projekte_egypten	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Tell	standort_schafisheim_projekte_tell	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Berufsmess	standort_schafisheim_projekte_berufsmesse	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
