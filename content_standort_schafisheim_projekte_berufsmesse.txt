@@ -5,7 +5,7 @@
   <col width="650"/>
   <tr>
     <td>&nbsp;</td>
-    <td><b>Berufsmess</b></td>
+    <td><b>Berufsmesse (2. Sek)</b></td>
   </tr>
   <tr>
     <td>&nbsp;</td>
@@ -21,6 +21,7 @@
           <td width="150"></td>
           <td></td>
         </tr>
+<!--
         <tr>
           <td colspan="8">Please insert some meaningful text here.
                           <br />
@@ -30,6 +31,7 @@
         <tr>
           <td colspan="8" align="right">Eva Ravnikar</td>
         </tr>
+-->
         <tr>
           <td><br/>Bitte Fotos anklicken</td>
           <td align="right"></td>
