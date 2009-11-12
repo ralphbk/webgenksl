@@ -1,3 +1,3 @@
 Ägypten	standort_schafisheim_projekte_aegypten	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Tell	standort_schafisheim_projekte_tell	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Berufsmess	standort_schafisheim_projekte_berufsmesse	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Berufsmesse	standort_schafisheim_projekte_berufsmesse	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
