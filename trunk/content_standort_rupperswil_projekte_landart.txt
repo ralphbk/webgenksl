@@ -15,9 +15,9 @@
 
 <p align="right">Susanne Siegrist Roth, Sabine Burki</p>
 
-<p><a href="../archiv/schuljahr200809/landart_mit_Ton_090626/index.html" target="_blank"><img src="images/kiesel.gif" alt="" height="16" width="20" border="0" /></a> Diaschau Landart mit Ton
+<p><a href="http://www.kslotten.ch/archiv/schuljahr200809/landart_mit_Ton_090626/index.html" target="_blank"><img src="images/kiesel.gif" alt="" height="16" width="20" border="0" /></a> Diaschau Landart mit Ton
 <br />
-<a href="../archiv/schuljahr200809/landart_steine/album/index.html" target="_blank"><img src="images/kiesel.gif" alt="" height="16" width="20" border="0" /></a> Diaschau Landart mit Steinen und Pflanzen
+<a href="http://www.kslotten.ch/archiv/schuljahr200809/landart_steine/album/index.html" target="_blank"><img src="images/kiesel.gif" alt="" height="16" width="20" border="0" /></a> Diaschau Landart mit Steinen und Pflanzen
 </p>
 
 <p align="center"><img src="standort_rupperswil_projekte_landart/start.jpg" alt="" height="507" width="638" border="0" /></p>
