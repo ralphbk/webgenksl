@@ -45,9 +45,9 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">3. Sekundarklasse</td>
-<td bgcolor="#E0E0E0">Jürg ????</td>
+<td bgcolor="#E0E0E0">Jürg Schlatter</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:???" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:juerg.schlatter@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
