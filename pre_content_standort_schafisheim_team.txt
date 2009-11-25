@@ -10,3 +10,4 @@ Frehner Regula	Fachlehrerin Französisch	regula.frehner@kslotten.ch
 Ferrara Joseph	Fachlehrer Werken	josef.ferrara@kslotten.ch
 Barazzutti Simone	Fachlehrerin Französisch	simone.barazzutti@kslotten.ch
 Ravnikar Eva	Fachlehrerin Englisch	eva.ravnikar@kslotten.ch
+Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch

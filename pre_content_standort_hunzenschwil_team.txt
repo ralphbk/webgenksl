@@ -14,3 +14,4 @@ Senn Ruth	Fachlehrerin Deutsch/Biologie/Realien/Mathematik	ruth.senn@kslotten.ch
 Müller Hanspeter	Fachlehrer Werken/Biologie	hanspeter.mueller@kslotten.ch
 Segna Raffael	Fachlehrer Physik/Chemie/Biologie/Französisch/Sport	raffael.segna@kslotten.ch
 Kussin Michael	Fachlehrer Informatik und Sport	michael.kussin@kslotten.ch
+Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
