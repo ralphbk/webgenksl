@@ -2,6 +2,7 @@ Gaiser Hans	Klassenlehrer 1. Real	hans.gaiser@kslotten.ch
 Geering Adrian	Klassenlehrer 1. Sek	adrian.geering@kslotten.ch
 Giacomotti Cédric	Klassenlehrer 2. Sek	cedric.giacomotti@kslotten.ch
 Belz Andi	Klassenlehrer 3. Real	andreas.belz@kslotten.ch
+Jürg Schlatter	Klassenlehrerin 3. Sek a	juerg.schlatter@kslotten.ch
 Andermatt Nicole	Klassenlehrerin 3. Sek b	nicole.andermatt@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Schlatter Silvia	Fachlehrerin Musik	silvia.schlatter@kslotten.ch
@@ -12,5 +13,4 @@ Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
 Senn Ruth	Fachlehrerin Deutsch/Biologie/Realien/Mathematik	ruth.senn@kslotten.ch
 Müller Hanspeter	Fachlehrer Werken/Biologie	hanspeter.mueller@kslotten.ch
 Segna Raffael	Fachlehrer Physik/Chemie/Biologie/Französisch/Sport	raffael.segna@kslotten.ch
-Jörg Schlatter	Fachlehrer	--	joerg.schlatter@kslotten.ch
 Kussin Michael	Fachlehrer Informatik und Sport	michael.kussin@kslotten.ch
