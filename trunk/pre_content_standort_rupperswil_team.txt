@@ -14,3 +14,4 @@ Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Schärer Michèle	Fachlehrerin Textiles Werken	michele.schaerer@kslotten.ch
 Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
 Weiss Marcel	Fachlehrer Mathematik/Geogr./Biol.	marcel.weiss@kslotten.ch
+Topitsch Toni	Schulischer Heilpädagoge	toni.topitsch@kslotten.ch
