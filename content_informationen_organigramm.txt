@@ -3,10 +3,10 @@
 <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
 	<tr>
 		<td width="30">&nbsp;</td>
-		<td width="751" valign="top"><b>Organigramm der Kreisschule Lotten<br/><br/></b></td>
+		<td width="729" valign="top"><b>Organigramm der Kreisschule Lotten<br/><br/><br/><br/></b></td>
 	</tr>
 	<tr>
 		<td width="30">&nbsp;</td>
-		<td width="751" align="center"><img width="751" src="images/KSPL_Organigramm_091124.jpg" alt=""/></td>
+		<td width="729" align="center"><img width="751" src="images/KSPL_Organigramm_091124.jpg" alt=""/></td>
 	</tr>
 </table>
