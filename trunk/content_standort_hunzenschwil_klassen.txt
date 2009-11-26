@@ -37,7 +37,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">3. Realklasse</td>
-<td bgcolor="#FFFFFF">Andi Belz</td>
+<td bgcolor="#FFFFFF">Andreas Belz</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:andreas.belz@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
