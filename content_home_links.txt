@@ -1,0 +1,75 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+
+	<col width ="30"/>
+	<col width ="30"/>
+	<col width ="280"/>
+	<col width ="30"/>
+	<col width ="260"/>
+	<tr>
+		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0">&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Schulen<br/></strong></td>
+		<td bgcolor="#E0E0E0">&nbsp;</td>
+		<td bgcolor="#E0E0E0">&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.schule-hunzenschwil.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Hunzenschwil</td>
+		<td><b><a href="http://www.schule-lenzburg.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Regionalschule Lenzburg</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.schulen5103.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>M&ouml;riken-Wildegg</td>
+		<td><b><a href="http://www.steinerschule-aargau.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Rudolf Steiner Schule Aargau</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.schulenrupperswil.ch/schulenrupperswil/Aktuell.html" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Rupperswil</td>
+		<td><b><a href="http://www.schule-suhr.ch/" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schulen Suhr</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.schule-schafisheim.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Schule Schafisheim</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr>
+		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0">&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Gemeinden<br/></strong></td>
+		<td bgcolor="#E0E0E0">&nbsp;</td>
+		<td bgcolor="#E0E0E0">&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.hunzenschwil.ch/hunzenschwil?S=1_101__0_30___" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Gemeinde Hunzenschwil</td>
+		<td><b><a href="http://www.schafisheim.ch" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Gemeinde Schafisheim</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b><a href="http://www.rupperswil.ch/pages" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Gemeinde Rupperswil</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+</table>

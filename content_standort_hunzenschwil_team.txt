@@ -85,7 +85,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Leutwyler Fabienne</td>
-<td bgcolor="#FFFFFF">Fachlehrerin Geografie/Geschichte/Sport</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Geografie, Geschichte, Sport</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:fabienne.leutwyler@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -101,7 +101,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Senn Ruth</td>
-<td bgcolor="#FFFFFF">Fachlehrerin Deutsch/Biologie/Realien/Mathematik</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Deutsch, Biologie, Realien, Mathematik</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:ruth.senn@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -117,7 +117,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Segna Raffael</td>
-<td bgcolor="#FFFFFF">Fachlehrer Physik/Chemie/Biologie/Französisch/Sport</td>
+<td bgcolor="#FFFFFF">Fachlehrer Physik, Chemie, Biologie, Französisch, Sport</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:raffael.segna@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
