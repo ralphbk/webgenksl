@@ -5,3 +5,4 @@ Leitbild	home_leitbild	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Eltern	home_eltern	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Schüler/innen	home_schueler_innen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Lehrpersonen	home_lehrpersonen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Links	home_links	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

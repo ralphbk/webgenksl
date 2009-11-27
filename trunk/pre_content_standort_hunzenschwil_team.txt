@@ -7,10 +7,10 @@ Andermatt Nicole	Klassenlehrerin 3. Sek b	nicole.andermatt@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Schlatter Silvia	Fachlehrerin Musik	silvia.schlatter@kslotten.ch
 Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
-Leutwyler Fabienne	Fachlehrerin Geografie/Geschichte/Sport	fabienne.leutwyler@kslotten.ch
+Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
 Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
-Senn Ruth	Fachlehrerin Deutsch/Biologie/Realien/Mathematik	ruth.senn@kslotten.ch
+Senn Ruth	Fachlehrerin Deutsch, Biologie, Realien, Mathematik	ruth.senn@kslotten.ch
 Müller Hans Peter	Fachlehrer Werken	hanspeter.mueller@kslotten.ch
-Segna Raffael	Fachlehrer Physik/Chemie/Biologie/Französisch/Sport	raffael.segna@kslotten.ch
+Segna Raffael	Fachlehrer Physik, Chemie, Biologie, Französisch, Sport	raffael.segna@kslotten.ch
 Kussin Michael	Fachlehrer Informatik	michael.kussin@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
