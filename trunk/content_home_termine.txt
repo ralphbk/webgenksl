@@ -14,18 +14,16 @@
 		<td><br/></td>
 		<td></td>
 	</tr>
-<!--
 	<tr>
 		<td>&nbsp;</td>
-		<td>26. November 2009</td>
-		<td>Informationsabend der Suchtpräventionsstelle Aarau "Voll ins Wochenende" um 19:30 Uhr in Hunzenschwil (Einladung folgt)</td>
+		<td>10. Dezember 2009</td>
+		<td>Klausmarkttag, Schulunterricht fällt <u>am Nachmittag</u> aus</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td><br/></td>
 		<td></td>
 	</tr>
--->
 	<tr>
 		<td>&nbsp;</td>
 		<td>22. Februar 2010</td>
