@@ -1,26 +1,25 @@
 <br/><br/>
 <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
 	<col width="30"/>
-	<col width="450" valign="top"/>
-	<col width="30"/>
-	<col width="265" valign="top"/>
+	<col width="600" valign="top"/>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><b>Schülerinnen und Schüler </b></td>
-		<td>&nbsp;</td>
-		<td align="right">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Informationen folgen anfangs Dezember 2009.</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>
+<b>Angebot für Schüler/-innen</b><br/>
+<br/>
+… bist du in einer schwierigen Situation und möchtest einen Ausweg finden?<br/>
+… hast du Stress in der Schule, mit deinen Kollegen/Kolleginnen?<br/>
+… Blackout während der Prüfung?<br/>
+… Angst oder fühlst dich bedroht?<br/>
+… Streit zu Hause mit den Eltern?<br/>
+… oder brauchst du jemanden, um einfach mal erzählen zu können?<br/>
+<br/>
+Ich höre dir zu und überlege mit dir gemeinsam, welche Lösungen es für deine Anliegen und Fragen geben könnte. Wenn du möchtest, unterstütze und begleite ich dich in deinen Entscheiden.<br/>
+<br/>
+Übrigens darfst du während der Schulzeit zu mir kommen, du musst dich aber bei deiner Lehrperson abmelden. Ich unterstehe der Schweigepflicht und die Gespräche sind für dich kostenlos.<br/>
+<br/>
+Neugierig?<br/>
+Du kannst mich unter <a href="informationen_schulsozialarbeit_kontakt.html">Kontakt</a> anrufen oder mir eine SMS (079 566 07 96) schicken.<br/>
+                </td>
 	</tr>
 </table>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
