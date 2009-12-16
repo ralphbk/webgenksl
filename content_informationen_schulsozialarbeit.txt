@@ -3,18 +3,16 @@
 <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
 	<tr>
 		<td width="30">&nbsp;</td>
-		<td width="300" valign="top"><b>Schulsozialarbeit<br/><br/></b>
-			Mirijam Malitius<br/>
-			Kreisschule Lotten<br/>
-			Mizeligasse<br/>
-			5502 Hunzenschwil<br/>
-			062 889 02 82<br/>
-			079 566 07 96<br/>
-			(Di - Do)<br/>
-			<a href="mailto:mirjam.malitius@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		<td width="600" valign="top">
+Willkommen bei der Schulsozialarbeit der Kreisschule Lotten<br/>
+<br/>
+<b>SCHULSOZIALARBEIT – WAS IST DAS?</b><br/>
+<br/>
+Die Schulsozialarbeit ist ein niederschwelliges Beratungsangebot für Schülerinnen und Schüler der Kreisschule Lotten.<br/>
+<br/>
+Ihr Ziel ist es, Kinder und Jugendliche im Prozess des Erwachsenwerdens zu begleiten. Sie berät diese bei der Lösung von persönlichen und/oder sozialen Problemen, die sich im Schulalltag bemerkbar machen. Die Schulsozialarbeit ist bestrebt die Schülerinnen und Schüler bei einer für sie befriedigenden Lebensbewältigung zu unterstützen und ihre Kompetenzen zur Lösung ihrer Schwierigkeiten zu fördern.<br/>
+<br/>
+In der Zusammenarbeit mit den Lehrpersonen, der Schulleitung, den Eltern und Fachstellen sieht sich die Schulsozialarbeit als einen weiteren stützenden Pfeiler in der Schule. 
 		</td>
-<!--
-		<td width="300" valign="top"><img src="images/malitius.jpg" height="150" width="150" border="0"><br/></td>
--->
 	</tr>
 </table>

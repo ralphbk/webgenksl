@@ -1,26 +1,22 @@
 <br/><br/>
 <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
 	<col width="30"/>
-	<col width="450" valign="top"/>
-	<col width="30"/>
-	<col width="265" valign="top"/>
+	<col width="600" valign="top"/>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><b>Lehrpersonen</b></td>
-		<td>&nbsp;</td>
-		<td align="right">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Informationen folgen anfangs Dezember 2009.</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>
+<b>Angebot für Lehrpersonen</b><br/>
+<ul>
+  <li>Beratung (Coaching) und Unterstützung für die Lösungsfindung im Zusammenhang einzelner auffälliger Schüler/-innen, Gruppen oder Klassen</li>
+  <li>Unterstützung bei der Zusammenarbeit mit Eltern und Moderation von Elterngesprächen</li>
+  <li>Interventionen, themenspezifisches und projektorientiertes Arbeiten mit Klassen (z.B. zu Mobbing, Gewalt, Sexualität, Suchtmittel, sozialer Kompetenz, etc.)</li>
+  <li>Informationen über Hilfsangebote und Vermitteln von Kontakten zu anderen Fachstellen</li>
+</ul>
+Die Schulsozialarbeit kann für die Lehrpersonen bei auftretenden Störungen/Problemen mit Schülerinnen oder Schülern eine Anlaufstelle sein und im Rahmen dieser interdisziplinären Zusammenarbeit auch in Konfliktfällen in der Elternarbeit und in der Prävention unterstützend wirken.<br/>
+<br/>
+Lehrpersonen werden in ihrer Fähigkeit gestärkt, sozial schwierige Problemlagen in ihrer Klasse einem angemessenen Lösungsweg zuzuführen.<br/>
+<br/>
+Für eine erfolgreiche Arbeit der Schulsozialarbeit ist eine konstruktive Zusammenarbeit mit den Lehrpersonen und gegenseitige Akzeptanz notwendig.
+               </td>
 	</tr>
 </table>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>

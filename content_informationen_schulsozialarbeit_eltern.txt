@@ -1,26 +1,19 @@
 <br/><br/>
 <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
 	<col width="30"/>
-	<col width="450" valign="top"/>
-	<col width="30"/>
-	<col width="265" valign="top"/>
+	<col width="600" valign="top"/>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><b>Eltern</b></td>
-		<td>&nbsp;</td>
-		<td align="right">&nbsp;</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Informationen folgen anfangs Dezember 2009.</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
+		<td>
+<b>Angebot für Eltern</b><br/>
+<ul>
+  <li>Beratung bei Sorgen um die Tochter, den Sohn (z.B. bei Schulschwierigkeiten, Schule schwänzen, Nachlassen der Leistungen, auffälliges Verhalten, Suchtmittel, Ängste, allgemeinen Fragen zur Erziehung etc.)</li>
+  <li>Vermittlung zwischen Eltern und Lehrpersonen (z.B. bei Konflikten und zur Klärung von Fragen zu sozialen Problemen etc.)</li>
+  <li>Vermittlung zu ergänzenden und/oder weiterführenden Fachstellen (Übergangsgespräche)</li>
+</ul>
+Die Schulsozialarbeit bietet den Eltern in schwierigen Situationen kurzfristige Hilfestellung in Bezug auf ihr Kind.<br/>
+<br/>
+Mit der Schulsozialarbeiterin können die Erziehungsberechtigten möglicherweise erstmals über den aktuellen Konflikt oder die Belastung reden; auf Wunsch wird der Kontakt zu weiteren Fachstellen hergestellt.
+</td>
 	</tr>
 </table>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
