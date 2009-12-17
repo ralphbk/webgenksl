@@ -1,0 +1,21 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="600" valign="top">
+<b>Grundsätze</b>
+<br/>
+<ul>
+  <li>Das Angebot der Schulsozialarbeit ist für alle freiwillig. Lehrpersonen können jedoch für eine Schülerin oder einen Schüler eine verbindliche Anmeldung für ein Erstgespräch bei der Schulsozialarbeit vereinbaren. Über eine weitere Zusammenarbeit entscheidet nach dem Gespräch der oder die Jugendliche selbst.</li>
+<br/>
+<li>Die Schulsozialarbeit arbeitet ressourcenorientiert. Das heisst: Vorhandene Stärken und Fähigkeiten der Jugendlichen und der beteiligten Personen stehen im Vordergrund.</li>
+<br/>
+<li>Familiäre und soziale Faktoren werden nebst dem direkt betroffenen Jugendlichen in die Beratung miteinbezogen. Mit dem systemischen Beratungsansatz können vorhandene Strukturen und Ressourcen für das Entwickeln von Lösungen genutzt werden.</li>
+<br/>
+<li>Die Schulsozialarbeit untersteht der beruflichen Schweigepflicht. Ausnahmen gibt es nur mit Zustimmung der betroffenen Personen oder bei akuten Gefährdungssituationen.</li>
+<br/>
+</ul>
+		</td>
+	</tr>
+</table>
