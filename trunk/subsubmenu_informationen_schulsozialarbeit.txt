@@ -2,4 +2,5 @@ NODISPLAY	informationen_schulsozialarbeit		#FFFFFF	#969696	#000000	#969696	NOSUB
 Angebot_für_Schüler/innen	informationen_schulsozialarbeit_schueler_innen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Angebot_für_Lehrpersonen	informationen_schulsozialarbeit_lehrpersonen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Angebot_für_Eltern		informationen_schulsozialarbeit_eltern	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Grundsätze	informationen_schulsozialarbeit_grundsaetze	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Kontakt		informationen_schulsozialarbeit_kontakt	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
