@@ -13,7 +13,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Burki Sabine</td>
-<td bgcolor="#E0E0E0">Klassenlehrerin 3. Real</td>
+<td bgcolor="#E0E0E0">Klassenlehrerin 2. Real</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:sabine.burki@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
