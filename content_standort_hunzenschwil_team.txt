@@ -109,32 +109,40 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Müller Hans Peter</td>
-<td bgcolor="#E0E0E0">Fachlehrer Werken</td>
+<td bgcolor="#E0E0E0">Fachlehrer BG</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:hanspeter.mueller@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Segna Raffael</td>
-<td bgcolor="#FFFFFF">Fachlehrer Physik, Chemie, Biologie, Französisch, Sport</td>
+<td bgcolor="#FFFFFF">Wolski Andrzej</td>
+<td bgcolor="#FFFFFF">Fachlehrer Werken</td>
 <td bgcolor="#FFFFFF">
+<a href="mailto:andrzej.wolski@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Segna Raffael</td>
+<td bgcolor="#E0E0E0">Fachlehrer Physik, Chemie, Biologie, Französisch, Sport</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:raffael.segna@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Kussin Michael</td>
-<td bgcolor="#E0E0E0">Fachlehrer Informatik</td>
-<td bgcolor="#E0E0E0">
+<td bgcolor="#FFFFFF">Kussin Michael</td>
+<td bgcolor="#FFFFFF">Fachlehrer Informatik</td>
+<td bgcolor="#FFFFFF">
 <a href="mailto:michael.kussin@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Stocker Hansueli</td>
-<td bgcolor="#FFFFFF">Schulischer Heilpädagoge</td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#E0E0E0">Stocker Hansueli</td>
+<td bgcolor="#E0E0E0">Schulischer Heilpädagoge</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:hansueli.stocker@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>

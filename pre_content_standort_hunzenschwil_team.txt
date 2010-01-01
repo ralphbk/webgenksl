@@ -10,7 +10,8 @@ Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
 Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
 Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
 Senn Ruth	Fachlehrerin Deutsch, Biologie, Realien, Mathematik	ruth.senn@kslotten.ch
-Müller Hans Peter	Fachlehrer Werken	hanspeter.mueller@kslotten.ch
+Müller Hans Peter	Fachlehrer BG	hanspeter.mueller@kslotten.ch
+Wolski Andrzej	Fachlehrer Werken	andrzej.wolski@kslotten.ch
 Segna Raffael	Fachlehrer Physik, Chemie, Biologie, Französisch, Sport	raffael.segna@kslotten.ch
 Kussin Michael	Fachlehrer Informatik	michael.kussin@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
