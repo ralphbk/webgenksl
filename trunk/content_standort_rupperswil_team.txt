@@ -85,7 +85,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Borer Zacharias</td>
-<td bgcolor="#FFFFFF">Fachlehrer Mathematik, Geographie, Biologie, E&amp;R</td>
+<td bgcolor="#FFFFFF">Fachlehrer Mathematik, Geographie, Biologie</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:zacharias.borer@kslotten.ch " style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -164,25 +164,17 @@
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Weiss Marcel</td>
-<td bgcolor="#FFFFFF">Fachlehrer Mathematik, Geographie, Biologie</td>
+<td bgcolor="#FFFFFF">Wolski Andrzej</td>
+<td bgcolor="#FFFFFF">Fachlehrer Werken</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:marcel.weiss@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">Wolski Andrzej</td>
-<td bgcolor="#E0E0E0">Fachlehrer Werken</td>
-<td bgcolor="#E0E0E0">
 <a href="mailto:andrzej.wolski@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Topitsch Toni</td>
-<td bgcolor="#FFFFFF">Schulischer Heilpädagoge</td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#E0E0E0">Topitsch Toni</td>
+<td bgcolor="#E0E0E0">Schulischer Heilpädagoge</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:toni.topitsch@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
