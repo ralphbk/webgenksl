@@ -7,7 +7,7 @@ Wyss Peter	Klassenlehrer 4. Sek	peter.wyss@kslotten.ch
 Arnold Franz	Fachlehrer Werken	franz.arnold@kslotten.ch
 Bächtold Corinne	Fachlehrerin Englisch	corinne.baechtold@kslotten.ch
 Barazzutti Simone	Fachlehrerin Französisch	simone.barazzutti@kslotten.ch
-Borer Zacharias	Fachlehrer Mathematik, Geographie, Biologie, E&amp;R	zacharias.borer@kslotten.ch 
+Borer Zacharias	Fachlehrer Mathematik, Geographie, Biologie	zacharias.borer@kslotten.ch 
 Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
 Hodel Barbara	Fachlehrerin Sport	barbara.hodel@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
@@ -17,6 +17,5 @@ Müller Hans Peter	Fachlehrer Werken	hanspeter.mueller@kslotten.ch
 Kirchhofer Markus	Fachlehrer Deutsch, Englisch, Französisch	markus.kirchhofer@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
-Weiss Marcel	Fachlehrer Mathematik, Geographie, Biologie	marcel.weiss@kslotten.ch
 Wolski Andrzej	Fachlehrer Werken	andrzej.wolski@kslotten.ch
 Topitsch Toni	Schulischer Heilpädagoge	toni.topitsch@kslotten.ch
