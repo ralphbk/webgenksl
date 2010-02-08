@@ -3,5 +3,6 @@ Seetalschulhaus<br/>
 Dorfstrasse 15<br/>
 5102 Rupperswil<br/>
 <br/>
-Telefon: 062 889 23 45<br/>
+Telefon: 062 889 23 45 (Lehrerzimmer)<br/>
+Telefon: 062 889 23 44 (Vorbereitungszimmer Seetalschulhaus)<br/>
 <iframe width="780" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.ch/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Dorfstrasse+15,+5102+Rupperswil,+Switzerland&amp;sll=47.410928,8.228218&amp;sspn=0.038801,0.095444&amp;ie=UTF8&amp;hq=&amp;hnear=Dorfstrasse+15,+5102+Rupperswil,+Aargau&amp;ll=47.403055,8.128209&amp;spn=0.005809,0.016737&amp;z=16&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.ch/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Dorfstrasse+15,+5102+Rupperswil,+Switzerland&amp;sll=47.410928,8.228218&amp;sspn=0.038801,0.095444&amp;ie=UTF8&amp;hq=&amp;hnear=Dorfstrasse+15,+5102+Rupperswil,+Aargau&amp;ll=47.403055,8.128209&amp;spn=0.005809,0.016737&amp;z=16&amp;iwloc=A" style="color:#0000FF;text-align:left">Karte vergrössern</a></small>
