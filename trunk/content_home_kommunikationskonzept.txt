@@ -10,14 +10,13 @@
       <br/>
       
       <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
-	<col width="150"/>
 	<col width="450"/>
+	<col width="150"/>
 	<tr>
-          <td>&nbsp;</td>
           <td bgcolor="#E0E0E0"><p><b>Inhaltsverzeichnis</b></p></td>
+          <td>&nbsp;</td>
         </tr>
 	<tr>
-	  <td>&nbsp;&nbsp;&nbsp;</td>
 	  <td bgcolor="#E0E0E0">
 	    <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
               <col width="20"/>
@@ -68,6 +67,7 @@
              </table>
 
            </td>
+           <td>&nbsp;&nbsp;&nbsp;</td>
          </tr>
        </table>
 
