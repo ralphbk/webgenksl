@@ -207,8 +207,8 @@ Die Schulleitung pflegt den Informationsaustausch mit den zuständigen Schulbehör
 
 <p id="s5_1"><b>5.1.	Das 5-Säulen-Prinzip</b></p>
 
-<table border="1" cellspacing="0">
-  <tr valign="top">
+<table  border="1" frame="box" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <tr bgcolor="#FFFF00" valign="top">
     <td><b>Was</b></td>
     <td><b>Wer</b></td>
     <td><b>Wen</b></td>
@@ -283,7 +283,7 @@ Die Schulleitung pflegt den Informationsaustausch mit den zuständigen Schulbehör
 
 <p>Die Verantwortung der Homepage-Publikationen ist wie folgt geregelt:</p>
 
-<table>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
   <tr>
     <td>Strategische/Politische Beiträge</td>
     <td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
