@@ -4,7 +4,7 @@
   <col width="600"/>
   <tr>
     <td>&nbsp;</td>
-    <td><b>Kommunikationskonzept der Kreisschule Lotten</b><a href="documents/Kommunikationskonzept Hauptdokument V-Version.pdf" target="_blank"><img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a>
+    <td><b>Kommunikationskonzept der Kreisschule Lotten</b> <a href="documents/Kommunikationskonzept_Hauptdokument_V-Version.pdf" target="_blank"><img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a>
       <br/>
       <br/>
       <br/>
@@ -348,7 +348,7 @@ Die Stellen sprechen ihre Kontakte mit den Medien ab und informieren sich gegens
 
 <p id="s7"><b>7.	Anhänge</b></p>
 
-<p id="s7_1"><b>7.1 	Krisenmanagement</b><a href="documents/Kommunikationskonzept Anhang 7.1 Krisenkonzept.pdf" target="_blank"><img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a></p>
+<p id="s7_1"><b>7.1 	Krisenmanagement</b> <a href="documents/Kommunikationskonzept_Anhang_7.1_Krisenkonzept.pdf" target="_blank"><img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a></p>
 <p id="s7_2"><b>7.2 	Adressen der Kreisschule Lotten mit E-Mail Adresse</b></p>
 <p id="s7_3"><b>7.3           Adressen der Presse im Einzugsgebiet der Kreisschule Lotten</b></p>
 
