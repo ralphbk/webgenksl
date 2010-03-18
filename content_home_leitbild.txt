@@ -12,15 +12,15 @@
       (eingesetzt am 13. Februar 2006)
       <br/>
       <br/>
+      <br/>
       <table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
-	<col width="50"/>
 	<col width="550"/>
+	<col width="50"/>
 	<tr>
+          <td bgcolor="#E0E0E0"><br/><b>Inhaltsverzeichnis</b></td>
           <td>&nbsp;</td>
-          <td bgcolor="#E0E0E0"><b>Inhaltsverzeichnis</b></td>
-        </tr>
+       </tr>
 	<tr>
-	  <td>&nbsp;</td>
 	  <td bgcolor="#E0E0E0">
 	    <ol>
 	      <li><a href="#sektion1" style="text-decoration:none; color:#000000;">Gemeinsame pädagogische Haltung</a></li>
@@ -42,6 +42,7 @@
 	      <li><a href="#sektion16" style="text-decoration:none; color:#000000">Schulleitung</a></li>
 	    </ol>
           </td>
+	  <td>&nbsp;</td>
         </tr>
       </table>
       <br/>
