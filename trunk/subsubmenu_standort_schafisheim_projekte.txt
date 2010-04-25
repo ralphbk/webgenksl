@@ -2,3 +2,4 @@ KVA	standort_schafisheim_projekte_kva	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Ägypten	standort_schafisheim_projekte_aegypten	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Tell	standort_schafisheim_projekte_tell	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Berufsmesse	standort_schafisheim_projekte_berufsmesse	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Ski-Lager_2010	standort_schafisheim_projekte_skilager2010	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
