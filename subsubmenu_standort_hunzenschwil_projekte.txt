@@ -1,2 +1,1 @@
-Ski-Lager_2010	standort_hunzenschwil_projekte_skilager2010	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Volkslauf	standort_hunzenschwil_projekte_volkslauf	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
