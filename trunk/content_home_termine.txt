@@ -25,7 +25,7 @@
 		<td><br/></td>
 		<td></td>
 	</tr>
--->
+
 	<tr>
 		<td>&nbsp;</td>
 		<td>08. - 12. März 2010</td>
@@ -41,6 +41,7 @@
 		<td>07. Mai 2010</td>
 		<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
 	</tr>
+-->
 	<tr>
 		<td>&nbsp;</td>
 		<td><br/></td>
