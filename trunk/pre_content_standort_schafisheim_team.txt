@@ -1,13 +1,13 @@
-Fischer Thomas	Klassenlehrer 4. Sek.	thomas.fischer@kslotten.ch
-Baumann Simon	Klassenlehrer 4. Real.	simon.baumann@kslotten.ch
-Frehner Markus	Klassenlehrer 2. Sek.	markus.frehner@kslotten.ch
-Passerini Thomas	Klassenlehrer 2. Real.	thomas.passerini@kslotten.ch
-Troxler Heidi	Fachlehrerin Sport	heidi.troxler@kslotten.ch
-Merz Trix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
-Lüscher Nicole	Fachlehrerin Hauswirtschaft	nicole.luescher@kslotten.ch
-Lehner Béatrice	Fachlehrerin Hauswirtschaft	beatrice.lehner@kslotten.ch
+Barazzutti Simone	Klassenlehrerin 1. Sek.	simone.barazzutti@kslotten.ch
+Baumann Simon	Klassenlehrer 1. Real.	simon.baumann@kslotten.ch
+Fischer Thomas	Klassenlehrer 1. Sek.	thomas.fischer@kslotten.ch
+Frehner Markus	Klassenlehrer 3. Sek.	markus.frehner@kslotten.ch
 Frehner Regula	Fachlehrerin Französisch	regula.frehner@kslotten.ch
-Ferrara Joseph	Fachlehrer Werken	josef.ferrara@kslotten.ch
-Barazzutti Simone	Fachlehrerin Französisch	simone.barazzutti@kslotten.ch
+Lehner Béatrice	Fachlehrerin Hauswirtschaft	beatrice.lehner@kslotten.ch
+Lüscher Nicole	Fachlehrerin Hauswirtschaft	nicole.luescher@kslotten.ch
+Merz Trix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
+Passerini Thomas	Klassenlehrer 2. Real.	thomas.passerini@kslotten.ch
 Ravnikar Eva	Fachlehrerin Englisch	eva.ravnikar@kslotten.ch
+Sander Florian	Fachlehrer Werken	florian.sander@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
+Troxler Heidi	Fachlehrerin Sport	heidi.troxler@kslotten.ch

@@ -1,4 +1,5 @@
-2. Realklasse	Thomas Passerini	thomas.passerini@kslotten.ch
-2. Sekundarklasse	Markus Frehner	markus.frehner@kslotten.ch
-4. Realklasse	Simon Baumann	simon.baumann@kslotten.ch
-4. Sekundarklasse	Thomas Fischer	thomas.fischer@kslotten.ch
+1. Realklasse	Simon Baumann	simon.baumann@kslotten.ch
+1. Sekundarklasse	Simone Barazzutti	simone.barazzutti@kslotten.ch
+1. Sekundarklasse	Thomas Fischer	thomas.fischer@kslotten.ch
+3. Realklasse	Thomas Passerini	thomas.passerini@kslotten.ch
+3. Sekundarklasse	Markus Frehner	markus.frehner@kslotten.ch

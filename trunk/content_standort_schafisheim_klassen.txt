@@ -12,23 +12,7 @@
 <tr> <td colspan="4"> &nbsp; </td> </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">2. Realklasse</td>
-<td bgcolor="#E0E0E0">Thomas Passerini</td>
-<td bgcolor="#E0E0E0">
-<a href="mailto:thomas.passerini@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#FFFFFF">2. Sekundarklasse</td>
-<td bgcolor="#FFFFFF">Markus Frehner</td>
-<td bgcolor="#FFFFFF">
-<a href="mailto:markus.frehner@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">4. Realklasse</td>
+<td bgcolor="#E0E0E0">1. Realklasse</td>
 <td bgcolor="#E0E0E0">Simon Baumann</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:simon.baumann@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
@@ -36,10 +20,34 @@
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">4. Sekundarklasse</td>
-<td bgcolor="#FFFFFF">Thomas Fischer</td>
+<td bgcolor="#FFFFFF">1. Sekundarklasse</td>
+<td bgcolor="#FFFFFF">Simone Barazzutti</td>
 <td bgcolor="#FFFFFF">
+<a href="mailto:simone.barazzutti@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">1. Sekundarklasse</td>
+<td bgcolor="#E0E0E0">Thomas Fischer</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:thomas.fischer@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">3. Realklasse</td>
+<td bgcolor="#FFFFFF">Thomas Passerini</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:thomas.passerini@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">3. Sekundarklasse</td>
+<td bgcolor="#E0E0E0">Markus Frehner</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:markus.frehner@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>

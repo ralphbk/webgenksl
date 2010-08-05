@@ -1,21 +1,20 @@
-Burki Sabine	Klassenlehrerin 2. Real	sabine.burki@kslotten.ch
-Diesslin Irene	Klassenlehrerin 1. Real	irene.diesslin@kslotten.ch
-Murk Gian-Andrea	Klassenlehrer 4. Real	gian-andrea.murk@kslotten.ch
-Siegrist Susi	Klassenlehrerin 2. Sek	susanne.siegrist@kslotten.ch
-Vock Urs	Klassenlehrer 1. Sek	urs.vock@kslotten.ch
-Wyss Peter	Klassenlehrer 4. Sek	peter.wyss@kslotten.ch
 Arnold Franz	Fachlehrer Werken	franz.arnold@kslotten.ch
-Bächtold Corinne	Fachlehrerin Englisch	corinne.baechtold@kslotten.ch
-Barazzutti Simone	Fachlehrerin Französisch	simone.barazzutti@kslotten.ch
 Borer Zacharias	Fachlehrer Mathematik, Geographie, Biologie	zacharias.borer@kslotten.ch 
+Burki Sabine	Klassenlehrerin 3. Real	sabine.burki@kslotten.ch
+Diesslin Irene	Klassenlehrerin 2. Real	irene.diesslin@kslotten.ch
 Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
-Hodel Barbara	Fachlehrerin Sport	barbara.hodel@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
-Merz Beatrix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
-Schärer Michèle	Fachlehrerin Textiles Werken	michele.schaerer@kslotten.ch
-Müller Hans Peter	Fachlehrer Werken	hanspeter.mueller@kslotten.ch
+Hodel Barbara	Fachlehrerin Sport	barbara.hodel@kslotten.ch
 Kirchhofer Markus	Fachlehrer Deutsch, Englisch, Französisch	markus.kirchhofer@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
+Merz Beatrix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
+Meyer Horst	Fachlehrer	horst.meyer@kslotten.ch
+Murk Gian-Andrea	Klassenlehrer 1. Real	gian-andrea.murk@kslotten.ch
+Sander Florian	Fachlehrerin Englisch, Werken	florian.sander@kslotten.ch
+Schärer Michèle	Fachlehrerin Textiles Werken	michele.schaerer@kslotten.ch
+Siegrist Susi	Klassenlehrerin 3. Sek	susanne.siegrist@kslotten.ch
+Topitsch Toni	Schulischer Heilpädagoge	toni.topitsch@kslotten.ch
+Vock Urs	Klassenlehrer 2. Sek	urs.vock@kslotten.ch
 Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
 Wolski Andrzej	Fachlehrer Werken	andrzej.wolski@kslotten.ch
-Topitsch Toni	Schulischer Heilpädagoge	toni.topitsch@kslotten.ch
+Wyss Peter	Klassenlehrer 1. Sek	peter.wyss@kslotten.ch
