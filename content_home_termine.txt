@@ -6,7 +6,7 @@
 	<col width="400" valign="top"/>
 	<tr>
 		<td>&nbsp;</td>
-  		<td bgcolor="#E0E0E0"><b>Schuljahr 2009 / 2010</b></td>
+  		<td bgcolor="#E0E0E0"><b>Schuljahr 2010 / 2011</b></td>
 		<td bgcolor="#E0E0E0"></td>
 	</tr>
 	<tr>
@@ -59,60 +59,6 @@
 		<td><br/></td>
 		<td></td>
 		<td></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-  		<td bgcolor="#E0E0E0"><b>Ferienplan 2009 / 2010</b></td>
-		<td bgcolor="#E0E0E0"></td>
-		<td bgcolor="#E0E0E0"></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td><br/></td>
-		<td><b>Letzter Schultag</b></td>
-		<td><b>Erster Schultag</b></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Schuljahrbeginn</td>
-		<td></td>
-		<td>10. August 2009</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Herbstferien</td>
-		<td>25. September 2009</td>
-		<td>19. Oktober 2009</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Weihnachtsferien</td>
-		<td>18. Dezember 2009</td>
-		<td>4. Januar 2010</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Sportferien</td>
-		<td>22. Januar 2010</td>
-		<td>8. Februar 2010</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Fr&uuml;hlingsferien</td>
-		<td>9. April 2010</td>
-		<td>26. April 2010</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>Sommerferien</td>
-		<td>9. Juli 2010</td>
-		<td>9. August 2010</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
 	</tr>
 
 	<tr>

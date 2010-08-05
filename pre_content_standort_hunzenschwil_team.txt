@@ -1,17 +1,18 @@
-Gaiser Hans	Klassenlehrer 1. Real	hans.gaiser@kslotten.ch
-Geering Adrian	Klassenlehrer 1. Sek	adrian.geering@kslotten.ch
-Giacomotti Cédric	Klassenlehrer 2. Sek	cedric.giacomotti@kslotten.ch
-Belz Andreas	Klassenlehrer 3. Real	andreas.belz@kslotten.ch
-Schlatter Jürg	Klassenlehrerin 3. Sek a	juerg.schlatter@kslotten.ch
-Andermatt Nicole	Klassenlehrerin 3. Sek b	nicole.andermatt@kslotten.ch
+Andermatt Nicole	Klassenlehrerin 4. Sek b	nicole.andermatt@kslotten.ch
+Belz Andreas	Klassenlehrer 4. Real	andreas.belz@kslotten.ch
+Boetsch Daniela	Klassenlehrerin 4. Sek a	daniela.boetsch@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
-Schlatter Silvia	Fachlehrerin Musik	silvia.schlatter@kslotten.ch
-Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
-Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
-Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
-Senn Ruth	Fachlehrerin Deutsch, Biologie, Realien, Mathematik	ruth.senn@kslotten.ch
-Müller Hans Peter	Fachlehrer BG	hanspeter.mueller@kslotten.ch
-Wolski Andrzej	Fachlehrer Werken	andrzej.wolski@kslotten.ch
-Segna Raffael	Fachlehrer Physik, Chemie, Biologie, Französisch, Sport	raffael.segna@kslotten.ch
+Geering Adrian	Klassenlehrer 2. Sek	adrian.geering@kslotten.ch
+Giacomotti Cédric	Klassenlehrer 3. Sek	cedric.giacomotti@kslotten.ch
+Heimgartner Christine	Klassenlehrerin 2. Real	christine.heimgartner@kslotten.ch
 Kussin Michael	Fachlehrer Informatik	michael.kussin@kslotten.ch
+Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
+Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
+Mitra Anita	Klassenlehrerin 4. Sek a	anita.mitra@kslotten.ch
+Ruf Iris	Klassenlehrerin 2. Real	iris.ruf@kslotten.ch
+Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
+Schlatter Silvia	Fachlehrerin Musik	silvia.schlatter@kslotten.ch
+Senn Ruth	Fachlehrerin Deutsch, Biologie, Realien, Mathematik	ruth.senn@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
+Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
+Wolski Andrzej	Fachlehrer Werken	andrzej.wolski@kslotten.ch
