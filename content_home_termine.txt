@@ -14,18 +14,38 @@
 		<td><br/></td>
 		<td></td>
 	</tr>
-<!--
-	<tr>
-		<td>&nbsp;</td>
-		<td>22. Februar 2010</td>
-		<td>Weiterbildung Lehrpersonen, Schulunterricht fällt <u>am Vormittag</u> aus</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td><br/></td>
-		<td></td>
-	</tr>
 
+	<tr>
+		<td>&nbsp;</td>
+		<td><b>24. September 2010</b></td>
+		<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b>10. November 2010</b></td>
+		<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b>25. November 2010</b></td>
+			<td>Informationsabend für Eltern: „Digitale Medien“, 19:30 Uhr im Singsaal Hunzenschwil, Einladung und Programm folgen</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b>23. Februar 2011</b></td>
+			<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b>7. - 11. März 2011</b></td>
+			<td>Projektwoche mit Skilager und für 3./4. Klassen Möglichkeit zum Schnuppern</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td><b>6. Juli 2011</b></td>
+			<td>Zensurfeier für die 4. Klassen</td>
+	</tr>
+<!--
 	<tr>
 		<td>&nbsp;</td>
 		<td>08. - 12. März 2010</td>
