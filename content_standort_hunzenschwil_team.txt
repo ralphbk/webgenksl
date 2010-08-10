@@ -68,90 +68,66 @@
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Kussin Michael</td>
-<td bgcolor="#FFFFFF">Fachlehrer Informatik</td>
+<td bgcolor="#FFFFFF">Leutwyler Fabienne</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Geografie, Geschichte, Sport</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:michael.kussin@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">Leutwyler Fabienne</td>
-<td bgcolor="#E0E0E0">Fachlehrerin Geografie, Geschichte, Sport</td>
-<td bgcolor="#E0E0E0">
 <a href="mailto:fabienne.leutwyler@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Meier Franziska</td>
-<td bgcolor="#FFFFFF">Fachlehrerin Französisch</td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#E0E0E0">Meier Franziska</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Französisch</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:franziska.meier@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Mitra Anita</td>
-<td bgcolor="#E0E0E0">Klassenlehrerin 4. Sek a</td>
-<td bgcolor="#E0E0E0">
+<td bgcolor="#FFFFFF">Mitra Anita</td>
+<td bgcolor="#FFFFFF">Klassenlehrerin 4. Sek a</td>
+<td bgcolor="#FFFFFF">
 <a href="mailto:anita.mitra@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Ruf Iris</td>
-<td bgcolor="#FFFFFF">Klassenlehrerin 2. Real</td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#E0E0E0">Ruf Iris</td>
+<td bgcolor="#E0E0E0">Klassenlehrerin 2. Real</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:iris.ruf@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Sander Florian</td>
-<td bgcolor="#E0E0E0">Fachlehrer Englisch, Werken</td>
-<td bgcolor="#E0E0E0">
+<td bgcolor="#FFFFFF">Sander Florian</td>
+<td bgcolor="#FFFFFF">Fachlehrer Englisch, Werken</td>
+<td bgcolor="#FFFFFF">
 <a href="mailto:florian.sander@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Schlatter Silvia</td>
-<td bgcolor="#FFFFFF">Fachlehrerin Musik</td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#E0E0E0">Schlatter Silvia</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Musik</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:silvia.schlatter@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Senn Ruth</td>
-<td bgcolor="#E0E0E0">Fachlehrerin Deutsch, Biologie, Realien, Mathematik</td>
-<td bgcolor="#E0E0E0">
+<td bgcolor="#FFFFFF">Senn Ruth</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Deutsch, Biologie, Realien, Mathematik</td>
+<td bgcolor="#FFFFFF">
 <a href="mailto:ruth.senn@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Stocker Hansueli</td>
-<td bgcolor="#FFFFFF">Schulischer Heilpädagoge</td>
-<td bgcolor="#FFFFFF">
-<a href="mailto:hansueli.stocker@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">Weiersmüller Ursula</td>
-<td bgcolor="#E0E0E0">Fachlehrerin Englisch</td>
+<td bgcolor="#E0E0E0">Stocker Hansueli</td>
+<td bgcolor="#E0E0E0">Schulischer Heilpädagoge</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:ursula.weiersmueller@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#FFFFFF">Wolski Andrzej</td>
-<td bgcolor="#FFFFFF">Fachlehrer Werken</td>
-<td bgcolor="#FFFFFF">
-<a href="mailto:andrzej.wolski@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:hansueli.stocker@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
