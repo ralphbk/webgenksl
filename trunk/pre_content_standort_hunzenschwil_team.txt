@@ -5,7 +5,6 @@ Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Geering Adrian	Klassenlehrer 2. Sek	adrian.geering@kslotten.ch
 Giacomotti Cédric	Klassenlehrer 3. Sek	cedric.giacomotti@kslotten.ch
 Heimgartner Christine	Klassenlehrerin 2. Real	christine.heimgartner@kslotten.ch
-Kussin Michael	Fachlehrer Informatik	michael.kussin@kslotten.ch
 Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
 Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
 Mitra Anita	Klassenlehrerin 4. Sek a	anita.mitra@kslotten.ch
@@ -15,4 +14,3 @@ Schlatter Silvia	Fachlehrerin Musik	silvia.schlatter@kslotten.ch
 Senn Ruth	Fachlehrerin Deutsch, Biologie, Realien, Mathematik	ruth.senn@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
 Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
-Wolski Andrzej	Fachlehrer Werken	andrzej.wolski@kslotten.ch
