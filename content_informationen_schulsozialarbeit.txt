@@ -12,7 +12,13 @@ Die Schulsozialarbeit ist ein niederschwelliges Beratungsangebot für Schülerinne
 <br/>
 Ihr Ziel ist es, Kinder und Jugendliche im Prozess des Erwachsenwerdens zu begleiten. Sie berät diese bei der Lösung von persönlichen und/oder sozialen Problemen, die sich im Schulalltag bemerkbar machen. Die Schulsozialarbeit ist bestrebt die Schülerinnen und Schüler bei einer für sie befriedigenden Lebensbewältigung zu unterstützen und ihre Kompetenzen zur Lösung ihrer Schwierigkeiten zu fördern.<br/>
 <br/>
-In der Zusammenarbeit mit den Lehrpersonen, der Schulleitung, den Eltern und Fachstellen sieht sich die Schulsozialarbeit als einen weiteren stützenden Pfeiler in der Schule. 
+In der Zusammenarbeit mit den Lehrpersonen, der Schulleitung, den Eltern und Fachstellen sieht sich die Schulsozialarbeit als einen weiteren stützenden Pfeiler in der Schule.
+</br>
+</br>
+	<b>Prospekt Schulsozialarbeit KS Lotten</b>
+	    <a href="documents/Prospekt SSA Mai 10.pdf" target="_blank"><img src="images/pdf.gif" alt="PDF Dok." height="20" width="22" border="0"/></a>
+
 		</td>
 	</tr>
+
 </table>
