@@ -20,11 +20,14 @@
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td colspan="3">
+        	<br>Wir achten auf regelmässigen Austausch in pädagogischen Fragen und überprüfen dabei auch unsere pädagogische Haltung.<br>
+<!--
 		<ul>
 		<li>Im Umgang mit unseren Schülerinnen und Schülern sind uns Wohlwollen, Akzeptanz und Wertschätzung wichtig.</li>
 	        <li>Wir setzen gemeinsam Grenzen und achten auf deren Einhaltung.</li>
          	<li>Wir achten auf regelmässigen Austausch in pädagogischen Fragen und überprüfen dabei auch unsere pädagogische Haltung.</li>
 		</ul>
+-->
 		</td>
 	</tr>
 </table>
