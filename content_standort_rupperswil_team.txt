@@ -139,6 +139,22 @@
 </td>
 </tr>
 <tr>
+<td> </td>
+<td bgcolor="#E0E0E0">Vock Verena</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Biologie, BG, E&amp;R</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:verena.vock@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Wyss Peter</td>
+<td bgcolor="#FFFFFF">Klassenlehrer 1. Sek</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:peter.wyss@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
 <td colspan="3"> </td>
 </tr>
 </table>
