@@ -34,6 +34,22 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Schulstart 2010 / 2011<br/></strong></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>Begrüssung zum Schulstart in <a href="http://www.kslotten.ch/standort_rupperswil_projekte_schulstart.html">Rupperswil</a></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
 
 	<tr>
 		<td>&nbsp;</td>
