@@ -3,4 +3,4 @@ Team	standort_schafisheim_team	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Klassen	standort_schafisheim_klassen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Hausordnung	standort_schafisheim_hausordnung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Lageplan	standort_schafisheim_lageplan	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Projekte	standort_schafisheim_projekte_skilager2010	#FFFFFF	#969696	#000000	#969696	subsubmenu_standort_schafisheim_projekte.txt
+Projekte	standort_schafisheim_projekte_sporttag	#FFFFFF	#969696	#000000	#969696	subsubmenu_standort_schafisheim_projekte.txt
