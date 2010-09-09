@@ -14,8 +14,8 @@
 		<td><b>Schulsport</b></td>
 		<td>&nbsp;</td>
 		<td>Anmeldung Schulsport KS Lotten<br/>
-                1. Semester 2009 / 2010
-		    <a href="documents/schulsport0910_anmeldung.pdf" target="_blank"><img src="images/pdf.gif" alt="PDF Dok." height="20" width="22" border="0"/></a>
+                1. Semester 2010 / 2011
+		    <a href="documents/schulsport1011_anmeldung.pdf" target="_blank"><img src="images/pdf.gif" alt="PDF Dok." height="20" width="22" border="0"/></a>
 		</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -78,35 +78,33 @@
 		<td>&nbsp;</td>
 		<td>Donnerstag, 17.30 – 18.30</td>
 		<td>&nbsp;</td>
-		<td>Alte Turnhalle<br/>Hunzenschwil</td>
+		<td>Neue Turnhalle Hunzenschwil</td>
 		<td>&nbsp;</td>
-		<td>Michael Stampfli</td>
+		<td>Stefan Spichtig</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td bgcolor="#E0E0E0"><b>Tischtennis</b></td>
 		<td bgcolor="#E0E0E0">&nbsp;</td>
 		<td bgcolor="#E0E0E0">Dienstag, 17.15 – 18.45<br/>
-					  Donnerstag, 12.00 – 13.00<br/>
-			    		  &nbsp;
+									&nbsp;
 		</td> 
 		<td bgcolor="#E0E0E0">&nbsp;</td>
-		<td bgcolor="#E0E0E0">Jurahalle Rupperswil</td>
+		<td bgcolor="#E0E0E0">Sporthalle Rupperswil</td>
 		<td bgcolor="#E0E0E0">&nbsp;</td>
-		<td bgcolor="#E0E0E0">Iva Kubisova</td>
+		<td bgcolor="#E0E0E0">Elisabeth Schmid</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td><b>Unihockey</b></td>
 		<td>&nbsp;</td>
 		<td>Montag, 11.55 – 12.55<br/>
-		    Mittwoch, 17.00 – 18.00<br/>
-		    &nbsp;
+		    		    &nbsp;
 		</td>
 		<td>&nbsp;</td>
-		<td>Turnhalle Hunzenschwil</td>
+		<td>Neue Turnhalle Hunzenschwil</td>
 		<td>&nbsp;</td>
-		<td>Magnus Svensson</td>
+		<td>Otto Moilamen</td>
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
@@ -126,14 +124,10 @@
 		<td>&nbsp;</td>
 		<td><b>Volleyball (Fortgeschrittene)</b></td>
 		<td>&nbsp;</td>
-		<td>Dienstag, 16.30 – 18.00</td>
+		<td>Dienstag, 17.15 – 18.45</td>
 		<td>&nbsp;</td>
-		<td>Neue Turnhalle Hunzenschwil</td>
+		<td>Alte Turnhalle Hunzenschwil</td>
 		<td>&nbsp;</td>
-		<td>Hans Gaiser<br/>
-					Schwettistrasse 152<br/>
-					5704 Egliswil<br/>
-					062 775 38 24
-		</td>
+		<td>Steffi Hämmerle</td>
 	</tr>
 </table>
