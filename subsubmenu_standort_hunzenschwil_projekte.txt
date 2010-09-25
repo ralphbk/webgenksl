@@ -1,1 +1,2 @@
+Autowaschtag	standort_hunzenschwil_projekte_autowaschtag	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Volkslauf	standort_hunzenschwil_projekte_volkslauf	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
