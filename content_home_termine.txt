@@ -14,12 +14,6 @@
 		<td><br/></td>
 		<td></td>
 	</tr>
-
-	<tr>
-		<td>&nbsp;</td>
-		<td><b>24. September 2010</b></td>
-		<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
-	</tr>
 	<tr>
 		<td>&nbsp;</td>
 		<td><b>10. November 2010</b></td>
@@ -45,23 +39,6 @@
 		<td><b>6. Juli 2011</b></td>
 			<td>Zensurfeier für die 4. Klassen</td>
 	</tr>
-<!--
-	<tr>
-		<td>&nbsp;</td>
-		<td>08. - 12. März 2010</td>
-		<td><a href="http://kslotten.educanet2.ch/susanne.siegrist/.ws_gen/" target="_blank"><b>Projektwoche</b></a> mit Skilagern</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td><br/></td>
-		<td></td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td>07. Mai 2010</td>
-		<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
-	</tr>
--->
 	<tr>
 		<td>&nbsp;</td>
 		<td><br/></td>
