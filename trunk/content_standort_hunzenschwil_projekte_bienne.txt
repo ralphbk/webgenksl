@@ -1,0 +1,23 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>4. Real Hunzenschwil: Excursion à Bienne, Oktober 2010</b></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+      <table width="638" border="0" cellspacing="0" cellpadding="0">
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><p align="center"><img src="standort_hunzenschwil_projekte_bienne/bienne.jpg" alt="" width="752" border="0" /></p>
+		</td>
+	</tr>
+      </table>
+    </td>
+  </tr>
+</table>

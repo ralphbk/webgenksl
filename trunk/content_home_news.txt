@@ -22,6 +22,25 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
+	<tr>
+		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Exkursion nach Biel, in Oktober 2010</strong></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>4. Real Hunzenschwil reist mit Mme Meier nach Biel.
+		<a href="http://www.kslotten.ch/standort_hunzenschwil_projekte_bienne.html">Bericht.</a></td>
+
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
 
 	<tr valign="top">
 		<td>&nbsp;</td>
