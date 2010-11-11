@@ -24,7 +24,7 @@
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
-		<td bgcolor="#E0E0E0"><strong>Exkursion nach Biel, in Oktober 2010</strong></td>
+		<td bgcolor="#E0E0E0"><strong>Exkursion nach Biel, 2. November 2010</strong></td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
