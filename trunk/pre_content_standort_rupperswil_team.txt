@@ -6,7 +6,6 @@ Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Kirchhofer Markus	Fachlehrer Deutsch, Englisch, Französisch	markus.kirchhofer@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Merz Beatrix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
-Meyer Horst	Fachlehrer Physik und Biologie	horst.meyer@kslotten.ch
 Murk Gian-Andrea	Klassenlehrer 1. Real	gian-andrea.murk@kslotten.ch
 Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
 Schärer Michèle	Fachlehrerin Textiles Werken	michele.schaerer@kslotten.ch
