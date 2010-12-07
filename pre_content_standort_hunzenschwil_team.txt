@@ -4,6 +4,7 @@ Boetsch Daniela	Klassenlehrerin 4. Sek a	daniela.boetsch@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Geering Adrian	Klassenlehrer 2. Sek	adrian.geering@kslotten.ch
 Giacomotti Cédric	Klassenlehrer 3. Sek	cedric.giacomotti@kslotten.ch
+Heer Stephan	Fachlehrer 2. Real	stephan.heer@kslotten.ch
 Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
 Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
 Mitra Anita	Klassenlehrerin 4. Sek a	anita.mitra@kslotten.ch

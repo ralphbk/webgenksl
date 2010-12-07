@@ -3,7 +3,6 @@ Borer Zacharias	Klassenlehrer 3. Real	zacharias.borer@kslotten.ch
 Diesslin Irene	Klassenlehrerin 2. Real	irene.diesslin@kslotten.ch
 Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
-Kirchhofer Markus	Fachlehrer Deutsch, Englisch, Französisch	markus.kirchhofer@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Merz Beatrix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
 Murk Gian-Andrea	Klassenlehrer 1. Real	gian-andrea.murk@kslotten.ch
