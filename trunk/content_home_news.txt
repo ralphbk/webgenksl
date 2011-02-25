@@ -20,6 +20,37 @@
 
 	<tr valign="top">
 		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>KS Lotten Quo Vadis: Presseberichte, 24. Januar 2011<br/></strong></td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><a href="documents/110224AargauerZeitung.pdf" target="_blank">Aargauer Zeitung
+		    <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a> <br/>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>
+               <p align="center"><img src="documents/110224AargauerZeitung.jpg" alt="" width="720" border="0" /></p><br/>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><a href="documents/110224LenzburgerBezirksanzeiger.pdf" target="_blank">Lenzburger Bezirksanzeiger
+		    <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a> <br/>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>
+               <p align="center"><img src="documents/110224LenzburgerBezirksanzeiger.jpg" alt="" width="720" border="0" /></p><br/>
+		</td>
+	</tr>
+   
+
+	<tr valign="top">
+		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
 
