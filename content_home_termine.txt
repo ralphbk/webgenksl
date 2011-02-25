@@ -16,11 +16,6 @@
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
-		<td><b>23. Februar 2011</b></td>
-			<td>Weiterbildung Lehrpersonen, Einstellung des Schulunterrichts</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
 		<td><b>7. - 11. März 2011</b></td>
 			<td>Projektwoche mit Skilager und für 3./4. Klassen Möglichkeit zum Schnuppern</td>
 	</tr>
