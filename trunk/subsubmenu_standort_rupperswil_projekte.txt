@@ -1,4 +1,5 @@
 Weihnachtsevent_2010	standort_rupperswil_projekte_weihnachtsevent	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Lesenacht	standort_rupperswil_projekte_lesenacht	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Eröffnung_des_Schuljahres	standort_rupperswil_projekte_schulstart	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Drei_Männer_im_Schnee	standort_rupperswil_projekte_drei_maenner	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Landart_mit_Naturmaterialien	standort_rupperswil_projekte_landart	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
