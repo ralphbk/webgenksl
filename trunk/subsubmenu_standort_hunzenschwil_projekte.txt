@@ -1,3 +1,7 @@
+Al_dente	standort_hunzenschwil_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Girly_week	standort_hunzenschwil_projekte_girlyweek	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Tischtennis	standort_hunzenschwil_projekte_tischtennis	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Verkehrserziehung	standort_hunzenschwil_projekte_verkehrserziehung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Bienne	standort_hunzenschwil_projekte_bienne	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Autowaschtag	standort_hunzenschwil_projekte_autowaschtag	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Volkslauf	standort_hunzenschwil_projekte_volkslauf	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

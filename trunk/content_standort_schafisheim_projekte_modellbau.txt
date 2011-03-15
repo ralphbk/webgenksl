@@ -1,0 +1,26 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Projektwoche vom 7. - 11. März 2011<br><br>"Modellbau" geleitet von Markus Frehner und Florian Sander</b><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150"><a href="standort_schafisheim_projekte_modellbau/modellbau01.jpg" target="_blank"><img src="standort_schafisheim_projekte_modellbau/modellbau01kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_modellbau/modellbau02.jpg" target="_blank"><img src="standort_schafisheim_projekte_modellbau/modellbau02kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_modellbau/modellbau03.jpg" target="_blank"><img src="standort_schafisheim_projekte_modellbau/modellbau03kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_modellbau/modellbau04.jpg" target="_blank"><img src="standort_schafisheim_projekte_modellbau/modellbau04kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+    </td>
+  </tr>
+</table>
