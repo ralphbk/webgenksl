@@ -28,28 +28,28 @@
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><a href="standort_schafisheim_projekte_modellbau.html">Modellbau, Schafisheim, geleitet von Markus Frehner und Florian Sander</a></br>
+		<td><a href="standort_schafisheim_projekte_modellbau.html">Modellbau, geleitet von Markus Frehner und Florian Sander</a></br>
 		<a href="standort_schafisheim_projekte_modellbau/modellbau04.jpg" target="_blank"><img src="standort_schafisheim_projekte_modellbau/modellbau04kl.jpg" alt="" height="113" width="150" border="0" /></a>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><a href="standort_hunzenschwil_projekte_aldente.html">Al dente, Hunzenschwil, geleitet von Annette Etterli, Fränzi Meier und Thomas Fischer</a></br>
+		<td><a href="standort_rupperswil_projekte_aldente.html">Al dente, geleitet von Annette Etterli, Franziska Meier und Thomas Fischer</a></br>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><a href="standort_hunzenschwil_projekte_girlyweek.html">Girly week, Hunzenschwil, geleitet von Ruth Senn und Nicole Andermatt</a></br>
+		<td><a href="standort_hunzenschwil_projekte_girlyweek.html">Girly week, geleitet von Ruth Senn und Nicole Andermatt</a></br>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><a href="standort_hunzenschwil_projekte_verkehrserziehung.html">Verkehrserziehung, Hunzenschwil, geleitet von Stephan Heer</a></br>
+		<td><a href="standort_hunzenschwil_projekte_verkehrserziehung.html">Verkehrserziehung, geleitet von Peter Wyss und Stephan Heer</a></br>
 		</td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td><a href="standort_hunzenschwil_projekte_tischtennis.html">Tischtennis, Hunzenschwil, geleitet von Andy Belz</a></br>
+		<td><a href="standort_hunzenschwil_projekte_tischtennis.html">Tischtennis, geleitet von Andy Belz</a></br>
 		</td>
 	</tr>
 	<tr valign="top">

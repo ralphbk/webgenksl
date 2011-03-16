@@ -1,3 +1,4 @@
+Al_dente	standort_rupperswil_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Weihnachtsevent_2010	standort_rupperswil_projekte_weihnachtsevent	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Lesenacht	standort_rupperswil_projekte_lesenacht	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Eröffnung_des_Schuljahres	standort_rupperswil_projekte_schulstart	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
