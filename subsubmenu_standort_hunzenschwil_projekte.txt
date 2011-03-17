@@ -1,5 +1,6 @@
 Al_dente	standort_hunzenschwil_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Girly_week	standort_hunzenschwil_projekte_girlyweek	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Lagerküche_und_Siebdruck	standort_hunzenschwil_projekte_lagerkueche	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Tischtennis	standort_hunzenschwil_projekte_tischtennis	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Verkehrserziehung	standort_hunzenschwil_projekte_verkehrserziehung	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Bienne	standort_hunzenschwil_projekte_bienne	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

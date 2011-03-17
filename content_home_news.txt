@@ -44,6 +44,11 @@
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
+		<td><a href="standort_hunzenschwil_projekte_lagerkueche.html">Lagerküche Lenzerheide und T-Shirt Siebdruck, geleitet von Marion Fonfara</a></br>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
 		<td><a href="standort_hunzenschwil_projekte_verkehrserziehung.html">Verkehrserziehung, geleitet von Peter Wyss und Stephan Heer</a></br>
 		</td>
 	</tr>
