@@ -1,3 +1,4 @@
+Nähen	standort_schafisheim_projekte_naehen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Modellbau	standort_schafisheim_projekte_modellbau	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Al_dente	standort_schafisheim_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Sporttag	standort_schafisheim_projekte_sporttag	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

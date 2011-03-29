@@ -1,0 +1,66 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Projektwoche vom 7. - 11. März 2011<br><br>"Nähen" geleitet von Beatrix Merz</b><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen01.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen01kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen02.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen02kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen03.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen03kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen04.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen04kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen05.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen05kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen06.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen06kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen07.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen07kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen08.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen08kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen09.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen09kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen10.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen10kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen19.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen19kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen11.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen11kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen13.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen13kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen14.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen14kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen15.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen15kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen16.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen16kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen17.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen17kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen18.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen18kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen12.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen12kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_schafisheim_projekte_naehen/naehen20.jpg" target="_blank"><img src="standort_schafisheim_projekte_naehen/naehen20kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+    </td>
+  </tr>
+</table>
