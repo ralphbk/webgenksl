@@ -1,3 +1,4 @@
+Informatik	standort_hunzenschwil_projekte_informatik	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Al_dente	standort_hunzenschwil_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Girly_week	standort_hunzenschwil_projekte_girlyweek	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Lagerküche_und_Siebdruck	standort_hunzenschwil_projekte_lagerkueche	#FFFFFF	#969696	#000000	#969696	NOSUBSUB

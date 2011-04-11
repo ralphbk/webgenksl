@@ -1,0 +1,14 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Informatik Lotten<b><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Die KS Lotten Informatikgruppe unter der Leitung von Zacharias Borer betreibt seit längerem <a href="http://informatiklotten.wordpress.com/">eine eigene Website</a>.</br>
+  </tr>
+</table>
