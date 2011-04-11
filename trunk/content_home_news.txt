@@ -7,6 +7,25 @@
 		<td>&nbsp;</td>
 		<td><b>News</b></td>
 	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Informatikunterricht an der KS Lotten<br/></strong></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>Die KS Lotten Informatikgruppe unter der Leitung von Zacharias Borer betreibt seit längerem <a href="http://informatiklotten.wordpress.com/">eine eigene Website</a>.</br>
+		</td>
+	</tr>
 
 	<tr valign="top">
 		<td>&nbsp;</td>
