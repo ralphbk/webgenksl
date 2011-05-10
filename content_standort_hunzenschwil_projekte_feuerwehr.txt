@@ -1,0 +1,41 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="630"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Eine "heisse" Weiterbildung<br><br><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Am Mittwochnachmittag, 4. Mai 2011, durften die Lehrpersonen vom Standort Hunzenschwil eine wahrlich „heisse“ Weiterbildung erleben. 
+Zusammen mit den Primarschullehrpersonen und Hauswarten wurden sie von der Feuerwehr Hunzenschwil-Schafisheim instruiert, 
+was im Ernstfall zu tun ist. Sie lernten das Feuerdreieck sowie die Brandklassen kennen, schritten die Fluchtwege in der Schulanlage 
+ab und informierten sich über den Sammelplatz. So richtig zur Sache ging es aber dann bei der praktischen Handhabung mit Löschdecke und verschiedenen 
+Typen von Handfeuerlöschgeräten. So mancher oder  manche musste sich etwas überwinden und war froh um die Unterstützung durch die Spezialisten.</br></br>
+Gut instruiert und ausgebildet hoffen aber alle, dass der Ernstfall nie eintritt!<br/><br/>
+</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_feuerwehr/feuerwehr01.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_feuerwehr/feuerwehr01kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_feuerwehr/feuerwehr03.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_feuerwehr/feuerwehr03kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_feuerwehr/feuerwehr04.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_feuerwehr/feuerwehr04kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_feuerwehr/feuerwehr02.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_feuerwehr/feuerwehr02kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_feuerwehr/feuerwehr05.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_feuerwehr/feuerwehr05kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+		</tr>
+    </td>
+  </tr>
+</table>
