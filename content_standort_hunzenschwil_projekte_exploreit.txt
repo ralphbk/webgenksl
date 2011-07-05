@@ -1,0 +1,58 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="630"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Erf(K)indertag 2011<br><br><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b><a href="http://www.explore-it.org/" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit.jpg" alt="" height="17" width="60" border="0" /></a></b></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Am 7. Juni fand in Zofingen, AG der Erf(K)indertag, organisiert von der Firma explore-it, statt. 
+Zu diesem Event wurde auch die 2. Sekundarschulklasse aus Hunzenschwil eingeladen.<br/>
+Dieser Veranstaltung vorangegangen war eine Unterrichtseinheit zum Thema Technikverständnis im Werkunterricht, durchgeführt von Herrn Sander 
+(Fachlehrperson an der Kreisschule Lotten mit den Fächern Englisch und Werken). 
+Eine Auswahl von Aspekten zum Thema wurde thematisch aufbauend in drei Phasen behandelt.<br/>
+Die erste Phase „erforsche…“, leitete die Jugendlichen anfangs mit einer detaillierten Arbeitsanleitung zum Arbeiten am Material an. <br/>
+In der zweiten Phase „experimentiere…“, formulierten die Schülerinnen und Schüler eigene Erklärungen und überprüften ihre Ergebnisse am und mit dem Material.
+In der dritten Phase „erfinde…“, wurden eigene Objekte und Lösungen angestrebt. Es wurde eine Einstiegsaufgabe gestellt, die zu eigenen Erfindungen anregte.
+Diese eigenen Erfindungen wurden fotografiert und bei explore-it eingesendet, woraufhin die Klasse zusammen mit neun weiteren Klassen aus der ganzen Schweiz 
+zu dem Erf(K)indertag 2011 eingeladen wurde. Doch nicht nur viele Eindrücke und neue Erfahrungen konnten gesammelt werden, 
+zusätzlich hat die 2. Sekundarschulklasse auch noch den Wettbewerb und somit eine hohe Anerkennung, eine wasserfeste Digitalkamera, 
+eine Heissklebepistole, ein Multifunktionswerkzeug und einen Klassensatz (Erfinderkasten) zum Thema Solar-Power gewonnen.
+<br/><br/>
+<a href="http://www.explore-it.org/">Link: http://www.explore-it.org/</a>
+<br/><br/>
+</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit01.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit01kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit02.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit02kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit03.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit03kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit04.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit04kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit05.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit05kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit06.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit06kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_exploreit/exploreit07.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_exploreit/exploreit07kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+		</tr>
+    </td>
+  </tr>
+</table>
