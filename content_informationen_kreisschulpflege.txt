@@ -6,7 +6,10 @@
 		<td width="185" height="13"><b>Kreisschulpflege</b><br/></td>
 		<td align="left" width="125"><b>Lotten</b></td>
 		<td align="right" width="30">&nbsp;</td>
-		<td width="500">Ressortverteilung (Stand Juli 2010) <a href="documents/ressortverteilung_KSL_100701.pdf" target="_blank"><img src="images/pdf.gif" alt="PDF Dok." height="30" width="22" border="0" /></a><br/></td>
+		<td width="500"></td>
+<!--
+		<td width="500">Ressortverteilung (Stand August 2011) <a href="documents/ressortverteilung_KSL_100701.pdf" target="_blank"><img src="images/pdf.gif" alt="PDF Dok." height="30" width="22" border="0" /></a><br/></td>
+-->
 	</tr>
 	<tr>
 		<td width="30">&nbsp;</td>
@@ -197,7 +200,7 @@
 	</tr>
 	<tr>
 		<td width="30">&nbsp;</td>
-		<td width="185" height="13">(stv. Beat Bögli)</td>
+		<td width="185" height="13">(stv. Mario Keller)</td>
 		<td align="right" width="125"><a href="mailto:katrin.christenmestre@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a></td>
 		<td align="right" width="30"></td>
 		<td width="500" height="13">Betreuung Lehrpersonen Rupperswil</td>
@@ -227,22 +230,22 @@
 	</tr>
 	<tr>
 		<td width="30">&nbsp;</td>
-		<td width="185" height="13"><strong>Beat B&ouml;gli</strong></td>
-		<td align="right" width="125" height="13">P 062 891 10 81</td>
+		<td width="185" height="13"><strong>Mario Keller</strong></td>
+		<td align="right" width="125" height="13">P 062 891 92 71</td>
 		<td align="right" width="30"></td>
 		<td valign="top" width="500" height="13">Konflikt- und Krisenmanagement</td>
 	</tr>
 	<tr>
 		<td width="30">&nbsp;</td>
-		<td width="185" height="13">Strossacherweg 24</td>
-		<td align="right" width="125" height="13">G 079 541 94 86</td>
+		<td width="185" height="13">Ulmenweg 12</td>
+		<td align="right" width="125" height="13">G 062 835 80 20</td>
 		<td align="right" width="30" height="13"></td>
 		<td width="500" height="13">Informatik und Homepage</td>
 	</tr>
 	<tr>
 		<td width="30">&nbsp;</td>
 		<td width="185" height="13">5503 Schafisheim</td>
-		<td align="right" width="125" height="13">N 079 456 56 49</td>
+		<td align="right" width="125" height="13">N 079 442 38 02</td>
 		<td align="right" width="30" height="13"></td>
 		<td width="500" height="13">Kerngruppe Schulplanung Lotten (Vertretung Schafisheim)</td>
 	</tr>
@@ -256,7 +259,7 @@
 	<tr>
 		<td width="30">&nbsp;</td>
 		<td width="185" height="13"></td>
-		<td align="right" width="125"><a href="mailto:beat.boegli@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a></td>
+		<td align="right" width="125"><a href="mailto:mario.keller@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a></td>
 		<td align="right" width="30"></td>
 		<td width="500" height="13">Betreuung Lehrpersonen Schafisheim</td>
 	</tr>

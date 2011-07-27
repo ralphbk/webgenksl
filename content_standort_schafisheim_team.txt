@@ -13,7 +13,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Barazzutti Simone</td>
-<td bgcolor="#E0E0E0">Klassenlehrerin 1. Sek.</td>
+<td bgcolor="#E0E0E0">Klassenlehrerin 2. Sek.</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:simone.barazzutti@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -21,7 +21,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Baumann Simon</td>
-<td bgcolor="#FFFFFF">Klassenlehrer 1. Real.</td>
+<td bgcolor="#FFFFFF">Klassenlehrer 1. und 2. Real.</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:simon.baumann@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -29,25 +29,25 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Fischer Thomas</td>
-<td bgcolor="#E0E0E0">Klassenlehrer 1. Sek.</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 2. Sek.</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:thomas.fischer@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Frehner Markus</td>
-<td bgcolor="#FFFFFF">Klassenlehrer 3. Sek.</td>
+<td bgcolor="#FFFFFF">Hardouin Nathalie</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Französisch</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:markus.frehner@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:nathalie.hardouin@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Frehner Regula</td>
-<td bgcolor="#E0E0E0">Fachlehrerin Französisch</td>
+<td bgcolor="#E0E0E0">Izgi Kadriye</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Englisch</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:regula.frehner@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:kadriye.izgi@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
@@ -77,33 +77,33 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Passerini Thomas</td>
-<td bgcolor="#E0E0E0">Klassenlehrer 2. Real.</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 4. Real.</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:thomas.passerini@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Ravnikar Eva</td>
-<td bgcolor="#FFFFFF">Fachlehrerin Englisch</td>
+<td bgcolor="#FFFFFF">Sander Florian</td>
+<td bgcolor="#FFFFFF">Fachlehrer Englisch, Werken</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:eva.ravnikar@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">Sander Florian</td>
-<td bgcolor="#E0E0E0">Fachlehrer Werken</td>
-<td bgcolor="#E0E0E0">
 <a href="mailto:florian.sander@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Stocker Hansueli</td>
-<td bgcolor="#FFFFFF">Schulischer Heilpädagoge</td>
-<td bgcolor="#FFFFFF">
+<td bgcolor="#E0E0E0">Stocker Hansueli</td>
+<td bgcolor="#E0E0E0">Schulischer Heilpädagoge</td>
+<td bgcolor="#E0E0E0">
 <a href="mailto:hansueli.stocker@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">Tanner Hansulrich</td>
+<td bgcolor="#FFFFFF">Klassenlehrer 4. Sek</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:hansulrich.tanner@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
