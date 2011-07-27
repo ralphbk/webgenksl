@@ -1,5 +1,6 @@
 Arnold Franz	Fachlehrer Werken	franz.arnold@kslotten.ch
 Borer Zacharias	Klassenlehrer 4. Real	zacharias.borer@kslotten.ch 
+Burki Sabine	Fachlehrerin	sabine.burki@kslotten.ch 
 Diesslin Irene	Klassenlehrerin 3. Real	irene.diesslin@kslotten.ch
 Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
