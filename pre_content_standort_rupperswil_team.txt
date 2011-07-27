@@ -13,5 +13,5 @@ Siegrist Susi	Klassenlehrerin 4. Sek	susanne.siegrist@kslotten.ch
 Topitsch Toni	Schulischer Heilpädagoge	toni.topitsch@kslotten.ch
 Vock Urs	Klassenlehrer 3. Sek	urs.vock@kslotten.ch
 Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
+Wildi Andreas	Fachlehrer	andreas.wildi@kslotten.ch
 Wyss Peter	Klassenlehrer 2. Sek	peter.wyss@kslotten.ch
-

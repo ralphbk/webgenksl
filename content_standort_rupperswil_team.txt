@@ -132,18 +132,18 @@
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Wyss Peter</td>
-<td bgcolor="#FFFFFF">Klassenlehrer 2. Sek</td>
+<td bgcolor="#FFFFFF">Wildi Andreas</td>
+<td bgcolor="#FFFFFF">Fachlehrer</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:peter.wyss@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:andreas.wildi@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0"></td>
-<td bgcolor="#E0E0E0"></td>
+<td bgcolor="#E0E0E0">Wyss Peter</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 2. Sek</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:peter.wyss@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
