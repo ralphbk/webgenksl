@@ -12,66 +12,50 @@
 <tr> <td colspan="4"> &nbsp; </td> </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">2. Realklasse</td>
-<td bgcolor="#E0E0E0">Iris Ruf</td>
+<td bgcolor="#E0E0E0">1. Realklasse</td>
+<td bgcolor="#E0E0E0">Sascha Imfeld</td>
 <td bgcolor="#E0E0E0">
+<a href="mailto:sascha.imfeld@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">1a. Sekundarklasse</td>
+<td bgcolor="#FFFFFF">Nicole Andermatt</td>
+<td bgcolor="#FFFFFF">
+<a href="mailto:nicole.andermatt@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#E0E0E0">1b. Sekundarklasse</td>
+<td bgcolor="#E0E0E0">Ursula Weiersmüller</td>
+<td bgcolor="#E0E0E0">
+<a href="mailto:ursula.weiersmueller@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+</td>
+</tr>
+<tr>
+<td> </td>
+<td bgcolor="#FFFFFF">3. Realklasse</td>
+<td bgcolor="#FFFFFF">Iris Ruf</td>
+<td bgcolor="#FFFFFF">
 <a href="mailto:iris.ruf@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">2. Realklasse</td>
-<td bgcolor="#FFFFFF">Heer Stephan</td>
-<td bgcolor="#FFFFFF">
-<a href="mailto:stephan.heer@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">2. Sekundarklasse</td>
-<td bgcolor="#E0E0E0">Adrian Geering</td>
+<td bgcolor="#E0E0E0">3. Realklasse</td>
+<td bgcolor="#E0E0E0">Anita Mitra</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:adrian.geering@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#FFFFFF">3. Sekundarklasse</td>
-<td bgcolor="#FFFFFF">Cédric Giacomotti</td>
-<td bgcolor="#FFFFFF">
-<a href="mailto:cedric.giacomotti@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#E0E0E0">4. Realklasse</td>
-<td bgcolor="#E0E0E0">Andreas Belz</td>
-<td bgcolor="#E0E0E0">
-<a href="mailto:andreas.belz@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#FFFFFF">4a. Sekundarklasse</td>
-<td bgcolor="#FFFFFF">Anita Mitra</td>
-<td bgcolor="#FFFFFF">
 <a href="mailto:anita.mitra@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">4a. Sekundarklasse</td>
-<td bgcolor="#E0E0E0">Daniela Boetsch</td>
-<td bgcolor="#E0E0E0">
-<a href="mailto:daniela.boetsch@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#FFFFFF">4b. Sekundarklasse</td>
-<td bgcolor="#FFFFFF">Nicole Andermatt</td>
+<td bgcolor="#FFFFFF">3. Sekundarklasse</td>
+<td bgcolor="#FFFFFF">Adrian Geering</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:nicole.andermatt@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:adrian.geering@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>

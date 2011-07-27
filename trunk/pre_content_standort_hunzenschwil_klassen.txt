@@ -1,8 +1,7 @@
-2. Realklasse	Iris Ruf	iris.ruf@kslotten.ch
-2. Realklasse	Heer Stephan	stephan.heer@kslotten.ch
-2. Sekundarklasse	Adrian Geering	adrian.geering@kslotten.ch
-3. Sekundarklasse	Cédric Giacomotti	cedric.giacomotti@kslotten.ch
-4. Realklasse	Andreas Belz	andreas.belz@kslotten.ch
-4a. Sekundarklasse	Anita Mitra	anita.mitra@kslotten.ch
-4a. Sekundarklasse	Daniela Boetsch	daniela.boetsch@kslotten.ch
-4b. Sekundarklasse	Nicole Andermatt	nicole.andermatt@kslotten.ch
+1. Realklasse	Sascha Imfeld	sascha.imfeld@kslotten.ch
+1a. Sekundarklasse	Nicole Andermatt	nicole.andermatt@kslotten.ch
+1b. Sekundarklasse	Ursula Weiersmüller	ursula.weiersmueller@kslotten.ch
+3. Realklasse	Iris Ruf	iris.ruf@kslotten.ch
+3. Realklasse	Anita Mitra	anita.mitra@kslotten.ch
+3. Sekundarklasse	Adrian Geering	adrian.geering@kslotten.ch
+4. Sekundarklasse	Cédric Giacomotti	cedric.giacomotti@kslotten.ch

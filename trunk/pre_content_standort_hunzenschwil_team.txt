@@ -1,16 +1,16 @@
-Andermatt Nicole	Klassenlehrerin 4. Sek b	nicole.andermatt@kslotten.ch
-Belz Andreas	Klassenlehrer 4. Real	andreas.belz@kslotten.ch
-Boetsch Daniela	Klassenlehrerin 4. Sek a	daniela.boetsch@kslotten.ch
+Andermatt Nicole	Klassenlehrerin 1. Sek a	nicole.andermatt@kslotten.ch
+Beck Kathrin	Fachlehrerin Französisch	kathrin.beck@kslotten.ch
+Boetsch Daniela	Fachlehrerin Biologie, Chemie, Franz, Geographie	daniela.boetsch@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
-Geering Adrian	Klassenlehrer 2. Sek	adrian.geering@kslotten.ch
-Giacomotti Cédric	Klassenlehrer 3. Sek	cedric.giacomotti@kslotten.ch
-Heer Stephan	Fachlehrer 2. Real	stephan.heer@kslotten.ch
-Leutwyler Fabienne	Fachlehrerin Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
-Meier Franziska	Fachlehrerin Französisch	franziska.meier@kslotten.ch
-Mitra Anita	Klassenlehrerin 4. Sek a	anita.mitra@kslotten.ch
-Ruf Iris	Klassenlehrerin 2. Real	iris.ruf@kslotten.ch
+Geering Adrian	Klassenlehrer 3. Sek	adrian.geering@kslotten.ch
+Giacomotti Cédric	Klassenlehrer 4. Sek	cedric.giacomotti@kslotten.ch
+Imfeld Sascha	Klassenlehrerin 1. Real	sascha.imfeld@kslotten.ch
+Izgi Kadriye	Fachlehrerin	Englisch	kadriye.izgi@kslotten.ch
+Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
+Leutwyler Fabienne	Fachlehrerin Englisch, Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
+Meier Franziska	Fachlehrerin Französisch, Bildnerisches Gestalten	franziska.meier@kslotten.ch
+Mitra Anita	Klassenlehrerin 3. Real	anita.mitra@kslotten.ch
+Ruf Iris	Klassenlehrerin 3. Real	iris.ruf@kslotten.ch
 Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
-Schlatter Silvia	Fachlehrerin Musik	silvia.schlatter@kslotten.ch
-Senn Ruth	Fachlehrerin Deutsch, Biologie, Realien, Mathematik	ruth.senn@kslotten.ch
-Stocker Hansueli	Schulischer Heilpädagoge, Lehrer 2. Real	hansueli.stocker@kslotten.ch
-Weiersmüller Ursula	Fachlehrerin Englisch	ursula.weiersmueller@kslotten.ch
+Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
+Weiersmüller Ursula	Klassenlehrerin 1. Sek b	ursula.weiersmueller@kslotten.ch
