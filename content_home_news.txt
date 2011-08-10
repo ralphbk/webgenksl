@@ -23,6 +23,21 @@
 
 	<tr valign="top">
 		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Informationen zum Schuljahr 2011/12, 9. August 2011<br/></strong></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><a href="http://www.kslotten.ch/home_eltern.html">Brief des Schulleiters an die Eltern </a></br>
+		</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
 		<td bgcolor="#E0E0E0"><strong>Erf(K)indertag 2011, Zofingen, 7. Juni 2011<br/></strong></td>
 	</tr>
 	<tr valign="top">

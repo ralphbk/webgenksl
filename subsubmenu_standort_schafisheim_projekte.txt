@@ -3,8 +3,3 @@ Nähen	standort_schafisheim_projekte_naehen	#FFFFFF	#969696	#000000	#969696	NOSUB
 Modellbau	standort_schafisheim_projekte_modellbau	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Al_dente	standort_schafisheim_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Sporttag	standort_schafisheim_projekte_sporttag	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Ski-Lager_2010	standort_schafisheim_projekte_skilager2010	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-KVA	standort_schafisheim_projekte_kva	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Ägypten	standort_schafisheim_projekte_aegypten	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Tell	standort_schafisheim_projekte_tell	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
-Berufsmesse	standort_schafisheim_projekte_berufsmesse	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
