@@ -1,3 +1,4 @@
+Sport_Stacking	standort_hunzenschwil_projekte_stacking	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 explore-it	standort_hunzenschwil_projekte_exploreit	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Feuerwehr	standort_hunzenschwil_projekte_feuerwehr	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Informatik	standort_hunzenschwil_projekte_informatik	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
