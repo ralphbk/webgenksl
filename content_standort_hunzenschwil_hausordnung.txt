@@ -6,12 +6,12 @@
   <tr>
     <td>&nbsp;</td>
     <td><b>Schule Hunzenschwil Schulhausordnung</b>
-      <a href="documents/HunzenschwilAuszugSchulordnung2007neu.pdf" target="_blank">
+      <a href="documents/HunzenschwilAuszugSchulordnung2011Feb.pdf" target="_blank">
         <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a><br/>
       <br/>
       <p>Auszug aus der Schulordnung der Schule Hunzenschwil</p>
       <p>Bestandteil der Schulordnung Kreisschule Lotten</p>
-      <p>Hunzenschwil, Januar 2008</p>
+      <p>Hunzenschwil, Februar 2011</p>
     </td>
   </tr>
   <tr>
@@ -20,7 +20,13 @@
       <p><b>Schulhausordnung</b></p>
       <p>Um einen geregelten Schulunterricht gewährleisten zu können, bitten wir Sie, geehrte Eltern, mit Ihrem
       Kind folgende Punkte zu besprechen:</p>
-      <ol style="font-weight:bold" start="2">
+      <ol style="font-weight:bold" start="1">
+        <li>Schulbesuch:
+          <ol style="font-weight:normal">
+            <li>Die Schülerinnen und Schüler sind verpflichtet, die Schule regelmässig und zur festgesetzten Zeit zu besuchen.</li>
+            <li>Die Schülerinnen und Schüler haben pünktlich zum Unterricht zu erscheinen.</li>
+          </ol>
+          <br/>
         <li>Schulbeginn:
           <ol style="font-weight:normal">
             <li>Es wird von den Schülerinnen und Schülern verlangt, dass sie nicht
@@ -32,12 +38,12 @@
           <br/>
         </li>
         <li>Schulweg:
-          <ol style="font-weight:normal" start="2">
+          <ol style="font-weight:normal" start="1">
+		<li>Grundsätzlich sind die Eltern für den Schulweg verantwortlich.</li>
             <li>Den Schülerinnen und Schülern der 5. Klasse ist im letzten Quartal
-                zwischen Frühlings- und Sommerferien gestattet, mit Velos in die
-                Schule zu fahren. Nur auswärtigen Schülerinnen und Schülern wird
-                ein gedeckter Abstellplatz zur Verfügung gestellt. In Hunzenschwil
-                wohnhafte Schülerinnen und Schüler haben ihre Zweiräder auf den
+                (zwischen Frühlings- und Sommerferien) gestattet, mit Velos in die
+                Schule zu fahren. In Hunzenschwil wohnhafte Schülerinnen und Schüler 
+                haben ihre Zweiräder auf den
                 speziell gekennzeichneten Plätzen abzustellen. Die Schule
                 (Gemeinde) haftet nicht für Diebstähle und Schäden an Velos,
                 Kickboards und Mofas.</li>
@@ -55,7 +61,7 @@
             <li>Speisen, Getränke sowie Kaugummis sind nur ausserhalb der
                 Schulhäuser und Turnhallen erlaubt.</li>
             <li>Das Benützen jeglicher elektronischer Geräte (Natel, Discman, MP3-
-                Player, usw.) ist nicht gestattet.</li>
+                Player, usw.) <i> auf dem Schulareal ist zu den offiziellen Unterrichtszeiten</i> nicht gestattet.</li>
             <li>Waffen jeglicher Art sind auf dem Schulhausareal verboten (inkl.
                 Taschenmesser/Feuerzeuge).</li>
             <li>In den Pausen dürfen die Schülerinnen und Schüler den Pausenplatz
@@ -78,6 +84,7 @@
             <li>Das Kletterbaumareal ist während den Pausen den Schülerinnen und
                 Schülern der Primarschule vorbehalten.</li>
             <li>Schneeballwerfen ist nur auf dem Trockenplatz erlaubt.</li>
+            <li><i> Die Veloständer sind kein Aufenthalts- und Versammlungsort.</i></li>
           </ol>
           <br/>
         </li>
@@ -98,11 +105,37 @@
                 Anordnungen der Hauswarte sind zu befolgen.</li>
             <li>Das Lärmen und Herumtoben (Fangis, Versteckspiel, etc.) in den
                 Schulzimmern, in den Gängen und im Treppenhaus ist verboten.</li>
-            <li>Auf den Boden spucken ist untersagt.</li>
+            <li>Auf den Boden zu spucken ist untersagt.</li>
           </ol>
           <br/>
         </li>
-        <li value="11">Kant. Schulverordnung
+        <li>Suchtmittel:
+          <ol style="font-weight:normal">
+            <li>Das Rauchen, der Konsum von Alkohol und anderen Drogen ist auf dem gesamten Schulareal verboten. 
+	Das Mitnehmen von Suchtmitteln in die Schule ist untersagt.</li>
+          </ol>
+          <br/>
+        </li>
+
+        <li>Urlaub:
+          <ol style="font-weight:normal">
+            <li>Gemäss nachfolgend angefügtem Erlass.</li>
+          </ol>
+          <br/>
+        </li>
+
+        <li>Rechte:
+          <ol style="font-weight:normal">
+            <li>Die Schülerinnen und Schüler haben das Recht, von ihrer Lehrperson in schulischen Sachfragen sowie in persönlichen Angelegenheiten 
+		und bei Problemen angehört zu werden.</li>
+            <li>Die Eltern haben das Recht, Schulprobleme ihrer Kinder mit den betreffenden Lehrpersonen zu besprechen. 
+		Meinungsverschiedenheiten zwischen Eltern und Lehrpersonen sollen nach Möglichkeit durch direkte Gespräche geklärt werden. 
+		Kommt keine Einigung zustande, können sie den Fall der Schulleitung oder – wenn nötig – der Schulpflege unterbreiten.</li>
+          </ol>
+          <br/>
+        </li>
+
+        <li>Kant. Schulverordnung:
           <ol style="font-weight:normal">
              <li>Die aufgeführten Punkte basieren auf der kantonalen Schulverordnung 
                  für die Volksschule und wurden den Verhältnissen in Hunzenschwil
@@ -113,9 +146,26 @@
              <li>Bei Zuwiderhandlungen gegen diese Schulordnung behalten sich die
                  Lehrerschaft, Schulleitung und die Schulpflege vor, eine angemessene
                  Strafe anzusetzen.</li>
+          <br/>
            </ol>
         </li>
+
+        <li>Zwischenstunden:
+          <ol style="font-weight:normal">
+             <li><i>Während Zwischenstunden (einmaligen oder regelmässigen) dürfen die Schüler<br>
+		a) im Schulzimmer ruhig arbeiten oder</br>
+		b) nach Hause gehen oder</br>
+		c) sich draussen aufhalten, wobei auf dem Schulareal ruhiges Verhalten verlangt wird und die Benützung der Anlagen 
+		(Tische, Sportplatz, Arena etc.) in erster Priorität dem Unterricht zusteht.</br>
+		Ständiges Wechseln von draussen nach drinnen und umgekehrt ist untersagt.</i>
+		</li>
+           </ol>
+          <br/>
+        </li>
       </ol>
+        <br/>
+        <br/>
+	<b><i>Kursiv Gedrucktes sind Zusätze für die Oberstufe.</b></i>
     </td>
   </tr>
 </table>

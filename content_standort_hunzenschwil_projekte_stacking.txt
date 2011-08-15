@@ -1,0 +1,50 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="630"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Sport Stacking am 10. August 2011<br><br><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Am Mittwoch in der ersten Schulwoche durfte jede Klasse der Oberstufe eine Einführungslektion in Sport Stacking geniessen. 
+Dabei geht es darum, 12 Kunststoffbecher so schnell wie möglich und fehlerfrei zu Türmen auf- und abzubauen. 
+Genau wie das Jonglieren aktiviert dies nachweisbar die Zusammenarbeit der linken und rechten Hirnhälfte. 
+Diese Vernetzung erleichtert das Erlernen anderer Fertigkeiten (Spielen eines Instrumentes, Lesen, Schreiben, Ausüben verschiedener Sportarten). 
+Die Schüler und Schülerinnen waren konzentriert und mit Eifer dabei. Die Eltern waren eingeladen, zuzuschauen  oder selber mitzumachen, was einige auch wagten. 
+Einige Teilnehmende bestellten im Anschluss für sich selber 12 Becher zum Weiterüben. 
+Wir danken der Firma ERNE AG Bauunternehmung von Laufenburg ganz herzlich für dieses tolle Sponsoring Projekt, 
+das von play4you an verschiedenen Schule durchgeführt werden kann.
+<br/><br/>
+</td>
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking01.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking01kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking02.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking02kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking03.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking03kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking04.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking04kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking05.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking05kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking06.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking06kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking07.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking07kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_stacking/stacking08.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_stacking/stacking08kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+		</tr>
+    </td>
+  </tr>
+</table>
