@@ -6,12 +6,13 @@ Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Heer Stephan	Fachlehrer Englisch, Französisch	stephan.heer@kslotten.ch
 Höchle Marianne 	Klassenlehrerin 2. Real	marianne.hoechle@kslotten.ch
+Izgi Kadriye	Fachlehrerin Englisch	kadriye.izgi@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Moser Andrea	Fachlehrerin Textiles Werken	andrea.moser@kslotten.ch
 Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
 Siegrist Susi	Klassenlehrerin 4. Sek	susanne.siegrist@kslotten.ch
-Topitsch Toni	Schulischer Heilpädagoge	toni.topitsch@kslotten.ch
+Simone Isenring	Schulische Heilpädagogin	simone.isenring@kslotten.ch
 Vock Urs	Klassenlehrer 3. Sek	urs.vock@kslotten.ch
 Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
-Wildi Andreas	Fachlehrer	andreas.wildi@kslotten.ch
+Wildi Andreas	Fachlehrer Musik	andreas.wildi@kslotten.ch
 Wyss Peter	Klassenlehrer 2. Sek	peter.wyss@kslotten.ch
