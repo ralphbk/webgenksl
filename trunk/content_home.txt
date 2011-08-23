@@ -11,23 +11,17 @@
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td colspan="3"><br/><br/>In diesem Schuljahr steht der Leitsatz 1 im Zentrum unseres Handelns:</td>
+		<td colspan="3"><br/><br/>In diesem Schuljahr steht der Leitsatz 15 im Zentrum unseres Handelns:</td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td colspan="3"><br/><b>1. Gemeinsame pädagogische Haltung</b></td>
+		<td colspan="3"><br/><b>15. Erfahrungsaustausch mit Ehemaligen, Eltern, weiterführenden Stufen und Schulen, Lehrbetrieben</b></td>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td colspan="3">
-        	<br>Wir achten auf regelmässigen Austausch in pädagogischen Fragen und überprüfen dabei auch unsere pädagogische Haltung.<br>
-<!--
-		<ul>
-		<li>Im Umgang mit unseren Schülerinnen und Schülern sind uns Wohlwollen, Akzeptanz und Wertschätzung wichtig.</li>
-	        <li>Wir setzen gemeinsam Grenzen und achten auf deren Einhaltung.</li>
-         	<li>Wir achten auf regelmässigen Austausch in pädagogischen Fragen und überprüfen dabei auch unsere pädagogische Haltung.</li>
-		</ul>
--->
+        	<br>Die verschiedenen Partner (Schulleitung, Lehrerinnen und Lehrer, Schülerinnen und Schüler, Ehemalige, Eltern, 
+weiterführende Stufen und Schulen, Lehrbetriebe) befinden sich in einem Dialog und geben einander Rückmeldungen.<br>
 		</td>
 	</tr>
 </table>

@@ -36,7 +36,7 @@
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">4. Sekundarklasse</td>
+<td bgcolor="#FFFFFF">3. Sekundarklasse</td>
 <td bgcolor="#FFFFFF">Urs Vock</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:urs.vock@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
