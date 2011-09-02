@@ -22,6 +22,20 @@
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Segellager der 3. Sek Rupperswill in Tenero, 22.-26. August 2011<br/></strong></td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><a href="standort_rupperswil_projekte_tenero.html">Fotos </a></br>
+		</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
 		<td bgcolor="#E0E0E0"><strong>Sport Stacking in Hunzenschwil, 10. August 2011<br/></strong></td>
 	</tr>
 	<tr valign="top">
