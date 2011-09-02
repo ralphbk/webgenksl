@@ -1,0 +1,62 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>Segellager der 3. Sek, Rupperswil vom 22. - 26. August 2011<br><br><br/><br/></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero01.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero01kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero02.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero02kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero03.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero03kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero04.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero04kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero05.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero05kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero06.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero06kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero07.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero07kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero08.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero08kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero09.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero09kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero10.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero10kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero11.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero11kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero12.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero12kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero13.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero13kl.jpg" alt="" height="150" width="113" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero14.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero14kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero15.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero15kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero16.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero16kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero17.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero17kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_rupperswil_projekte_tenero/tenero18.jpg" target="_blank"><img src="standort_rupperswil_projekte_tenero/tenero18kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+		</tr>
+    </td>
+  </tr>
+</table>

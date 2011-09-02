@@ -1,3 +1,4 @@
+Tenero	standort_rupperswil_projekte_tenero	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Informatik	standort_rupperswil_projekte_informatik	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Al_dente	standort_rupperswil_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Weihnachtsevent_2010	standort_rupperswil_projekte_weihnachtsevent	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
