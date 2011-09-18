@@ -16,16 +16,6 @@
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
-		<td><b>19. August 2011</b></td>
-			<td>Weiterbildungen Lehrpersonen, Einstellung des Schulunterrichts </td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
-		<td><b>30. August 2011</b></td>
-			<td>Kreisschulsporttag, Verschiebedatum 1./2. September, Informationen folgen von den Klassenlehrpersonen</td>
-	</tr>
-	<tr>
-		<td>&nbsp;</td>
 		<td><b>26. Oktober 2011</b></td>
 			<td>Weiterbildungen der Lehrpersonen zur Elternarbeit, Einstellung des Schulunterrichts </td>
 	</tr>
