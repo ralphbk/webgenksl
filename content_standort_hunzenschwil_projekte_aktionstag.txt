@@ -1,0 +1,65 @@
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+  <col width="30"/>
+  <col width="650"/>
+  <tr>
+    <td>&nbsp;</td>
+    <td><b>1. Oberstufe: Aktionstag "Fair Play", 19. September 2011</b><br/><br/>
+Am 19. September fand für alle 1. Oberstufenschüler und -schülerinnen der Kreisschule Lotten ein Aktionstag zum Thema „Fair Play“ am Standort Hunzenschwil statt.<br/>
+Der Aktionstag wurde in gemeinsamer Arbeit mit den Lehrpersonen der ersten Oberstufe, der Schulsozialarbeit und der Jugendarbeit Lotten entwickelt und organisiert.<br/><br/>
+
+Der Begriff „Fair Play“ findet vor allem im Sportbereich Verwendung. Dieser meint dabei ein bestimmtes, sportliches Verhalten, 
+das über die blosse Einhaltung von Regeln hinausgeht. Fair Play (Fairness) spielt jedoch auch in den verschiedenen, 
+alltäglichen Lebensbereichen eine wichtige Rolle. Was heisst nun „Fair Play“ für die Jugendlichen in der Schule, 
+im Zusammensein mit den Mitschülern, im Klassenzimmer, auf dem Pausenplatz? In verschiedenen Workshops 
+setzten sich die die Schüler und Schülerinnen in klassendurchmischten Gruppen kreativ und lustvoll mit dem Thema auseinandersetzen, 
+entwickelten Ideen, was Fairness im Schulalltag bedeutet und wurden darauf sensibilisiert, welche Verhaltensweisen hilfreich 
+für einen achtungsvollen Umgang untereinander sein können. Selbst das Znüni musste innerhalb der Gruppe fair aufgeteilt werden an diesem Tag!<br/><br/>
+    </td>
+
+  </tr>
+
+  <tr>
+    <td>&nbsp;</td>
+    <td>
+		<table width="638" border="0" cellspacing="0" cellpadding="0">
+		<tr>
+			<td width="150">beim Drum-Circle aufeinander hören</td>
+			<td width="9"></td>
+			<td width="150">miteinander ein Plakat zum Thema gestalten</td>
+			<td width="9"></td>
+			<td width="150">einen gemeinsamen Tanz einüben</td>
+			<td width="9"></td>
+			<td width="150">Gespräche führen zum Thema Mobbing</td>
+			<td width="9"></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_aktionstag/aktionstag01.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_aktionstag/aktionstag01kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_aktionstag/aktionstag02.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_aktionstag/aktionstag02kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_aktionstag/aktionstag03.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_aktionstag/aktionstag03kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_aktionstag/aktionstag04.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_aktionstag/aktionstag04kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td width="150">Fairplay im Netz kennenlernen</td>
+			<td width="9"></td>
+			<td width="150">die Gruppenaufgaben sind nur miteinander lösbar</td>
+			<td width="9"></td>
+			<td width="150"></td>
+			<td width="9"></td>
+			<td width="150"></td>
+			<td width="9"></td>
+		</tr>
+		<tr>
+			<td width="150"><a href="standort_hunzenschwil_projekte_aktionstag/aktionstag05.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_aktionstag/aktionstag05kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+			<td width="150"><a href="standort_hunzenschwil_projekte_aktionstag/aktionstag06.jpg" target="_blank"><img src="standort_hunzenschwil_projekte_aktionstag/aktionstag06kl.jpg" alt="" height="113" width="150" border="0" /></a></td>
+			<td width="9"></td>
+		</tr>
+    </td>
+  </tr>
+</table>
