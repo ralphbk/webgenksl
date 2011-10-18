@@ -1,3 +1,5 @@
+Aktionstag_FairPlay	standort_schafisheim_projekte_aktionstag	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
+Prävention_RoadCross	standort_schafisheim_projekte_roadcross	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Informatik	standort_schafisheim_projekte_informatik	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Nähen	standort_schafisheim_projekte_naehen	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Modellbau	standort_schafisheim_projekte_modellbau	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
