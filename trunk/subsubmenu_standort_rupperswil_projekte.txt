@@ -1,4 +1,3 @@
-Prävention_RoadCross	standort_rupperswil_projekte_roadcross	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Tenero	standort_rupperswil_projekte_tenero	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Informatik	standort_rupperswil_projekte_informatik	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Al_dente	standort_rupperswil_projekte_aldente	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
