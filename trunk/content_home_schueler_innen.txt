@@ -51,6 +51,13 @@
 	</tr>
 	<tr>
 		<td>&nbsp;</td>
+		<td><b><a href="http://panopti.com.onreact.com/swf/index.htm" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
+		<td>Die schöne neue Welt der Überwachung</td>
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+	<tr>
+		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
