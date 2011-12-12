@@ -8,7 +8,7 @@
 		Seetalschulhaus<br/>
 		5102 Rupperswil<br/>
 		Tel. 062 889 23 41<br/>
-		<a href="mailto:urs.vock@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		<a href="mailto:susanne.siegrist@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
 		</td>
 		<td width="300" valign="top"><br/></td>
 	</tr>
