@@ -4,7 +4,7 @@ Boetsch Daniela	Fachlehrerin Biologie, Chemie, Franz, Geographie	daniela.boetsch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
 Geering Adrian	Klassenlehrer 3. Sek	adrian.geering@kslotten.ch
 Giacomotti Cédric	Klassenlehrer 4. Sek	cedric.giacomotti@kslotten.ch
-Imfeld Sascha	Klassenlehrerin 1. Real	sascha.imfeld@kslotten.ch
+Imfeld Sascha	Klassenlehrer 1. Real	sascha.imfeld@kslotten.ch
 Izgi Kadriye	Fachlehrerin	Englisch	kadriye.izgi@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Leutwyler Fabienne	Fachlehrerin Englisch, Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
