@@ -10,7 +10,6 @@
 		<td><b><a href="http://www.schule-hunzenschwil.ch/93575/index.html" target="_blank"><img src="images/link.gif" alt="" height="19" width="25" border="0" /></a></b></td>
 		<td><strong>Musikschule Hunzenschwil / Rupperswil</strong></td>
 	</tr>
-
 	<tr>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
@@ -21,13 +20,13 @@
 	<tr>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td><b>Instrumentenvorstellung der Musikschule Hunzenschwil/Rupperswil Samstag, 25. März 2011</b></td>
+		<td><b>Instrumentenvorstellung der Musikschule Hunzenschwil/Rupperswil Samstag, 17. März 2012</b></td>
 	</tr>
 
 	<tr>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td><a href="documents/Instrumentenvorstellung 2011.pdf" target="_blank">Diashow Instrumentenvorstellung als PDF
+		<td><a href="documents/Instrumentenvorstellung 2012.pdf" target="_blank">Flyer
 		    <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a> <br/>
 		</td>
 	</tr>
@@ -35,36 +34,7 @@
 	<tr>
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td>
-<br><br><br>
-Zur alljährlich wiederkehrenden Instrumentenvorstellung, haben sich auch diesmal, zahlreiche Kinder mit Ihren Eltern, in der Schulanlage in Hunzenschwil eingefunden. <br>
-Die Präsidentin der Musikschulkommission, Liana Hofmann, begrüsste alle ganz herzlich zum Anlass.<br>
- Als Auftakt präsentierten uns die Musiklehrkräfte eine Jam-Session der besonderen Art, welche Ihren Abschluss unter grossem Applaus fand.<br>
- Danach hatten alle Interessierten die Möglichkeit, bei den einzelnen Lehrkräften vorbeizuschauen und sich über das breite Angebot zu erkunden. 
-Neben dem Austesten der Instrumente, wurde dabei auch Wert auf das persönliche Gespräch gelegt, um den verschiedenen Bedürfnissen an Fragen gerecht zu werden. <br>
-Es war wiederum ein vollumfänglich gelungener Anlass, welcher sich unkompliziert und abwechslungsreich präsentierte und allen Beteiligten ein guten Eindruck in die Musikschule vermitteln konnte.<br>
-<br><br>
-Im Namen der Musikschule bedanke ich mich an dieser Stelle ganz herzlich für das Engagement aller Beteiligten. Ich wünsche allen zukünftigen Musikschülern viel Spass sowie einen gelungenen Start in die Welt der Musik.
-<br><br>
-Musikschule Hunzenschwil/Rupperswil
-<br><br>
-Roger Furter<br>
-Mitglied der Musikschulkommission<br><br>
-
-		</td>
-	</tr>
-
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-	</tr>
-
-
-	<tr>
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td><br><b>Herbstkonzert der Musikschule Hunzenschwil / Rupperswil</b></td>
+		<td><br><b>Die Musikschule Hunzenschwil/ Rupperswil stellt sich vor</b></td>
 	</tr>
 
 	<tr>
@@ -72,32 +42,35 @@ Mitglied der Musikschulkommission<br><br>
 		<td>&nbsp;</td>
 		<td>
 <br>
-Am Mittwoch, 10. November 2010  fand in der ref. Kirche Hunzenschwil das traditionelle Herbstkonzert der Musikschule Hunzenschwil/Rupperswil statt.<br><br>
-Auch dieses Jahr überzeugten die „Musiker“ mit tollen Darbietungen. 
-Rockige Versionen von klassischen Musikstücken hallten ebenso durch die Kirche wie besinnliche Stücke.
-Auch die Vielfalt der Instrumente trug zu einem abwechslungsreichen Programm bei, welches dieses Jahr unter dem Motto „Kidsparade“ stand.<br><br>
-Die Zuschauer spürten, dass die Musiklehrer und ihre Schüler mit viel Herzblut ihre Darbietungen geübt und vorgetragen haben.<br><br>
-Die Musikschulkommission bedankt sich an dieser Stelle recht herzlich bei den Zuschauern, aber vor allem bei den Musiklehrern und ihren Schülern 
-für das tolle Konzert und das Engagement!
-(UH) 
+An unserer Musikschule werden jährlich rund 190 SchülerInnen ab der 2. Klasse sowie Lehrlinge unterrichtet. 
+Es steht ein vielfältiges und umfangreiches Instrumentalangebot zur Verfügung, welches unter fachkundiger Leitung 
+unserer 13 Instrumentallehrpersonen wöchentlich mit viel Freude und Engagement unterrichtet wird.
+<br><br>
+Anlässlich der bevorstehenden Instrumentenvorstellung vom Samstag, 17. März 2012, 10.15 Uhr, 
+Jurahalle in Rupperswil, haben alle SchülerInnen und deren Eltern die Gelegenheit, die Instrumente vor Ort auszuprobieren. 
+Nutzen Sie dieses Angebot, um mit den anwesenden Instrumentallehrpersonen allfällige Fragen zu klären.
+<br><br>
+Wir freuen uns auf Ihren Besuch.
+<br><br>
+Die Musikschulkommission Hunzenschwil/ Rupperswil mit der gesamten Instrumentallehrerschaft
+ 
 		</td>
 	</tr>
 
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td><p align="center"><img src="images/musikschule_news_1.jpg" alt="" border="0" /></p>
+		<td><p align="center"><img src="images/musikschule_teamfoto.jpg" alt="" border="0" /></p>
 	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
-		<td><p align="center"><img src="images/musikschule_news_2.jpg" alt="" border="0" /></p>
-		</td>
-	</tr>
-	<tr valign="top">
-		<td>&nbsp;</td>
-		<td>&nbsp;</td>
-		<td><p align="center"><img src="images/musikschule_news_3.jpg" alt="" border="0" /></p>
+		<td>Bildlegende:
+Vordere Reihe von links:<br>
+Annemarie Rohr, Markus Schlatter, Dietrich Zöller, Hedy Müller<br><br>
+Hintere Reihe von links:<br>
+Christof Hochuli, Silvio Latscha, Peter Aebersold, Witek Kornacki, Marc Joho, Janka Speglitz<br><br>
+Es fehlen: Jasmin Kasparek, Olimpia Tolan und Anna Häusermann
 		</td>
 	</tr>
 </table>

@@ -5,7 +5,7 @@
 		<td width="30">&nbsp;</td>
 		<td width="600" valign="top"><b>Kontakt</b><br/>
 <br/>
-Mirjam Malitius<br/>
+Franziska Schmidlin<br/>
 Schulsozialarbeit<br/>
 Kreisschule Lotten<br/>
 Mizeligasse<br/>
@@ -16,20 +16,26 @@ Mizeligasse<br/>
     <td>Tel.</td>
     <td>062 889 02 82</td>
   </tr>
+<!--
   <tr>
     <td>Mob.</td>
     <td>079 566 07 96</td>
   </tr>
+-->
   <tr>
-    <td><a href="mailto:mirjam.malitius@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a></td>
+    <td><a href="mailto:franziska.schmidlin@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a></td>
     <td> </td>
   </tr>
 </table>
 Erreichbarkeit: Di. – Do.<br/>
 <br/>
 <br/>
-Mirjam Malitius arbeitet seit 1.10.2008 zu 50% als Schulsozialarbeiterin an der Kreisschule Lotten. Sie ist systemisch-lösungsorientierte Kurzzeitberaterin und –therapeutin MAS FH. <br/>
-Frau Malitius ist wohnhaft in Kölliken, verheiratet und Mutter von zwei Kindern (23 und 18 Jahre).<br/>
+Franziska Schmidlin arbeitet seit dem 1.1.2012 zu 50% an der Kreisschule Lotten. 
+Sie war während der berufsbegleitenden Ausbildung zur Sozialpädagogin in zwei verschiedenen Heimen für Kinder und Jugendliche tätig. 
+Sie hat ausserdem verschiedene Berufspraktika unter anderem auch im Ausland absolviert und im September 2011 den Master in Sozialer Arbeit abgeschlossen. 
+Zuletzt arbeitete sie in einem Heim für Frauen mit psychischen Beeinträchtigungen.
+<br/>
+Frau Schmidlin ist wohnhaft in Rupperswil. <br/>
 		</td>
 	</tr>
 </table>
