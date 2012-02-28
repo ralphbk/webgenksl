@@ -1,5 +1,10 @@
-<br/><br/>
-<table frame="void" rules="none">
+<br/>
+<br/>
+<table border="0" frame="void" rules="none" style="table-layout:fixed; border-collapse:collapse;" cellspacing="0">
+
+	<col width ="30"/>
+	<col width ="30"/>
+	<col width ="670"/>
 
 	<tr>
 		<td width="30">&nbsp;</td>
@@ -13,20 +18,37 @@
 		<td width="30">&nbsp;</td>
 		<td width="30">&nbsp;</td>
 	</tr>
+
+
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="30">&nbsp;</td>
+		<td><b>Instrumentalunterricht an der Musikschule Hunzenschwil/Rupperswil</b></td>
+	</tr>
+	<tr>
+		<td width="30">&nbsp;</td>
+		<td width="30">&nbsp;</td>
+		<td><a href="documents/Anmeldung_Musikschule 12.pdf" target="_blank">Anmeldeformular für die Musikschule 2012/2013
+               <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a></br>
+               <a href="documents/MUK Broschuere 2012.pdf" target="_blank">Informationsbroschüre für den Instrumentalunterricht 2012/2013
+               <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a></br>
+		</td>
+
+	</tr>
+
+<!--
 
 
 	<tr>
 		<td width="30">&nbsp;</td>
 		<td><b>Instrumentenvorstellung der Musikschule Hunzenschwil/Rupperswil Samstag, 17. März 2012</b></td>
 	</tr>
-
 	<tr>
 		<td width="30">&nbsp;</td>
 		<td><a href="documents/Instrumentenvorstellung 2012.pdf" target="_blank">Flyer
 		    <img src="images/pdf.gif" alt="" height="20" width="22" border="0" /></a> <br/>
 		</td>
 	</tr>
-<!--
 	<tr>
 		<td>&nbsp;</td>
 		<td>
