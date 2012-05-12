@@ -18,9 +18,23 @@
 
 	<tr valign="top">
 		<td>&nbsp;</td>
-		<td bgcolor="#E0E0E0"><strong>Musikschule Hunzenschwil/Rupperswil<br/></strong></td>
+		<td bgcolor="#E0E0E0"><strong>Mittelalterlich Phantasie Spectaculum 2012<br/></strong></td>
 	</tr>
 
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><a href="standort_schafisheim_projekte_mittelalter.html">Bericht und Fotos </a></br>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Musikschule Hunzenschwil/Rupperswil<br/></strong></td>
+	</tr>
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td><a href="documents/Anmeldung_Musikschule 12.pdf" target="_blank">Anmeldeformular für die Musikschule 2012/2103
@@ -71,7 +85,6 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-	<tr valign="top">
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td bgcolor="#E0E0E0"><strong>Rupperswil: Weihnachtsturnier 2011<br/></strong></td>

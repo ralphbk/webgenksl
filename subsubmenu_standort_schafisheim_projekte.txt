@@ -1,3 +1,4 @@
+Phantasie_Spectaculum	standort_schafisheim_projekte_mittelalter	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Aktionstag_FairPlay	standort_schafisheim_projekte_aktionstag	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Prävention_RoadCross	standort_schafisheim_projekte_roadcross	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
 Informatik	standort_schafisheim_projekte_informatik	#FFFFFF	#969696	#000000	#969696	NOSUBSUB
