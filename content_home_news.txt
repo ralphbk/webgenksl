@@ -18,6 +18,21 @@
 
 	<tr valign="top">
 		<td>&nbsp;</td>
+		<td bgcolor="#E0E0E0"><strong>Schulsport Oberstufe Angebote 2012/2013<br/></strong></td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td><a href="informationen_schulsport.html">Aktuelle Angebote und Anmeldeformular</a></br>
+		</td>
+	</tr>
+	<tr valign="top">
+		<td>&nbsp;</td>
+		<td>&nbsp;</td>
+	</tr>
+
+	<tr valign="top">
+		<td>&nbsp;</td>
 		<td bgcolor="#E0E0E0"><strong>Mittelalterlich Phantasie Spectaculum 2012<br/></strong></td>
 	</tr>
 
@@ -183,6 +198,7 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
+<!--
 
 	<tr valign="top">
 		<td>&nbsp;</td>
@@ -231,7 +247,6 @@
 		<td>&nbsp;</td>
 		<td>&nbsp;</td>
 	</tr>
-<!--
 	<tr valign="top">
 		<td>&nbsp;</td>
 		<td bgcolor="#E0E0E0"><strong>Musikschule Hunzenschwil/Rupperswil: Instrumentenvorstellung am Samstag, 26. März 2011<br/></strong></td>
