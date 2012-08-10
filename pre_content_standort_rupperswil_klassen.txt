@@ -1,6 +1,6 @@
-2. Realklasse	Marianne Höchle	marianne.hoechle@kslotten.ch
-2. Sekundarklasse	Peter Wyss	peter.wyss@kslotten.ch
-3. Realklasse	Irene Diesslin	irene.diesslin@kslotten.ch
-3. Sekundarklasse	Urs Vock	urs.vock@kslotten.ch
-4. Realklasse	 Zacharias Borer	zacharias.borer@kslotten.ch
-4. Sekundarklasse	 Susi Siegrist	susanne.siegrist@kslotten.ch
+1. Realklasse	Susanne Schmid	susanne.schmid@kslotten.ch
+3. Realklasse	Marianne Höchle	marianne.hoechle@kslotten.ch
+3. Sekundarklasse	Peter Wyss	peter.wyss@kslotten.ch
+4. Realklasse	Sabine Burki	sabine.burki@kslotten.ch
+ 	Kathrin Ramseier	kathrin.ramseier
+4. Sekundarklasse	Hansulrich Tanner	hansulrich.tanner@kslotten.ch

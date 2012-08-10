@@ -1,13 +1,13 @@
-Barazzutti Simone	Klassenlehrerin 2. Sek.	simone.barazzutti@kslotten.ch
-Baumann Simon	Klassenlehrer 1. und 2. Real.	simon.baumann@kslotten.ch
-Fischer Thomas	Klassenlehrer 2. Sek.	thomas.fischer@kslotten.ch
-Hardouin Nathalie	Fachlehrerin Französisch	nathalie.hardouin@kslotten.ch
-Izgi Kadriye	Fachlehrerin Englisch	kadriye.izgi@kslotten.ch
+Barazzutti Simone	Klassenlehrerin 3. Sek	simone.barazzutti@kslotten.ch
+Baumann Simon	Klassenlehrer 2. und 3. Real	simon.baumann@kslotten.ch
+Beck Kathrin	Fachlehrerin Französisch	kathrin.beck@kslotten.ch
+Fischer Thomas	Klassenlehrer 3. Sek	thomas.fischer@kslotten.ch
+Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
+Gebhard Hanspeter	Klassenlehrer 1. Sek	hanspeter.gebhard@kslotten.ch
 Lehner Béatrice	Fachlehrerin Hauswirtschaft	beatrice.lehner@kslotten.ch
 Lüscher Nicole	Fachlehrerin Hauswirtschaft	nicole.luescher@kslotten.ch
 Merz Trix	Fachlehrerin Textiles Werken	beatrix.merz@kslotten.ch
-Passerini Thomas	Klassenlehrer 4. Real.	thomas.passerini@kslotten.ch
+Passerini Thomas	Klassenlehrer 1. Real	thomas.passerini@kslotten.ch
 Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
-Tanner Hansulrich	Klassenlehrer 4. Sek	hansulrich.tanner@kslotten.ch
 Troxler Heidi	Fachlehrerin Sport	heidi.troxler@kslotten.ch

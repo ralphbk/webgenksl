@@ -4,11 +4,11 @@
 	<tr>
 		<td width="30">&nbsp;</td>
 		<td width="300" valign="top"><b>Standortleitung Rupperswil<br/><br/></b>
-		Susi Siegrist<br/>
+		Hansulrich Tanner<br/>
 		Seetalschulhaus<br/>
 		5102 Rupperswil<br/>
 		Tel. 062 889 23 41<br/>
-		<a href="mailto:susanne.siegrist@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
+		<a href="mailto:hansulrich.tanner@kslotten.ch"><img src="images/mail.gif" border="0" alt="email"/></a><br/>
 		</td>
 		<td width="300" valign="top"><br/></td>
 	</tr>

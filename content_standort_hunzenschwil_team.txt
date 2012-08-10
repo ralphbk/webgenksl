@@ -13,25 +13,25 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Andermatt Nicole</td>
-<td bgcolor="#E0E0E0">Klassenlehrerin 1. Sek a</td>
+<td bgcolor="#E0E0E0">Klassenlehrerin 2. Sek a</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:nicole.andermatt@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Beck Kathrin</td>
-<td bgcolor="#FFFFFF">Fachlehrerin Französisch</td>
+<td bgcolor="#FFFFFF">Boetsch Daniela</td>
+<td bgcolor="#FFFFFF">Fachlehrerin Biologie, Chemie, Franz, Geographie</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:kathrin.beck@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:daniela.boetsch@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Boetsch Daniela</td>
-<td bgcolor="#E0E0E0">Fachlehrerin Biologie, Chemie, Franz, Geographie</td>
+<td bgcolor="#E0E0E0">Fiore Raphael</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 4. Real</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:daniela.boetsch@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:raphael.fiore@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Geering Adrian</td>
-<td bgcolor="#E0E0E0">Klassenlehrer 3. Sek</td>
+<td bgcolor="#E0E0E0">Klassenlehrer 4. Sek</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:adrian.geering@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -53,25 +53,25 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Giacomotti Cédric</td>
-<td bgcolor="#FFFFFF">Klassenlehrer 4. Sek</td>
+<td bgcolor="#FFFFFF">Klassenlehrer 1. Sek</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:cedric.giacomotti@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#E0E0E0">Imfeld Sascha</td>
-<td bgcolor="#E0E0E0">Klassenlehrer 1. Real</td>
+<td bgcolor="#E0E0E0">Imfeld Esther</td>
+<td bgcolor="#E0E0E0">Fachlehrerin Sprachen, Geschichte</td>
 <td bgcolor="#E0E0E0">
-<a href="mailto:sascha.imfeld@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:esther.imfeld@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
 <td> </td>
-<td bgcolor="#FFFFFF">Izgi Kadriye</td>
-<td bgcolor="#FFFFFF">Fachlehrerin</td>
+<td bgcolor="#FFFFFF">Imfeld Sascha</td>
+<td bgcolor="#FFFFFF">Klassenlehrer 2. Real</td>
 <td bgcolor="#FFFFFF">
-<a href="mailto:Englisch kadriye.izgi@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
+<a href="mailto:sascha.imfeld@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#FFFFFF">Mitra Anita</td>
-<td bgcolor="#FFFFFF">Klassenlehrerin 3. Real</td>
+<td bgcolor="#FFFFFF">Klassenlehrerin 4. Real</td>
 <td bgcolor="#FFFFFF">
 <a href="mailto:anita.mitra@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -109,7 +109,7 @@
 <tr>
 <td> </td>
 <td bgcolor="#E0E0E0">Ruf Iris</td>
-<td bgcolor="#E0E0E0">Klassenlehrerin 3. Real</td>
+<td bgcolor="#E0E0E0">Fachlehrerin</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:iris.ruf@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
@@ -128,14 +128,6 @@
 <td bgcolor="#E0E0E0">Schulischer Heilpädagoge</td>
 <td bgcolor="#E0E0E0">
 <a href="mailto:hansueli.stocker@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
-</td>
-</tr>
-<tr>
-<td> </td>
-<td bgcolor="#FFFFFF">Weiersmüller Ursula</td>
-<td bgcolor="#FFFFFF">Klassenlehrerin 1. Sek b</td>
-<td bgcolor="#FFFFFF">
-<a href="mailto:ursula.weiersmueller@kslotten.ch" style="text-decoration:none"><img src="images/mail.gif" border="0" alt="email"/></a>
 </td>
 </tr>
 <tr>
