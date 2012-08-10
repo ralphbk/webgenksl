@@ -1,16 +1,16 @@
-Andermatt Nicole	Klassenlehrerin 1. Sek a	nicole.andermatt@kslotten.ch
-Beck Kathrin	Fachlehrerin Französisch	kathrin.beck@kslotten.ch
+Andermatt Nicole	Klassenlehrerin 2. Sek a	nicole.andermatt@kslotten.ch
 Boetsch Daniela	Fachlehrerin Biologie, Chemie, Franz, Geographie	daniela.boetsch@kslotten.ch
+Fiore Raphael	Klassenlehrer 4. Real	raphael.fiore@kslotten.ch
 Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
-Geering Adrian	Klassenlehrer 3. Sek	adrian.geering@kslotten.ch
-Giacomotti Cédric	Klassenlehrer 4. Sek	cedric.giacomotti@kslotten.ch
-Imfeld Sascha	Klassenlehrer 1. Real	sascha.imfeld@kslotten.ch
-Izgi Kadriye	Fachlehrerin	Englisch	kadriye.izgi@kslotten.ch
+Geering Adrian	Klassenlehrer 4. Sek	adrian.geering@kslotten.ch
+Giacomotti Cédric	Klassenlehrer 1. Sek	cedric.giacomotti@kslotten.ch
+Imfeld Esther	Fachlehrerin Sprachen, Geschichte	esther.imfeld@kslotten.ch
+Imfeld Sascha	Klassenlehrer 2. Real	sascha.imfeld@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Leutwyler Fabienne	Fachlehrerin Englisch, Geografie, Geschichte, Sport	fabienne.leutwyler@kslotten.ch
 Meier Franziska	Fachlehrerin Französisch, Bildnerisches Gestalten	franziska.meier@kslotten.ch
-Mitra Anita	Klassenlehrerin 3. Real	anita.mitra@kslotten.ch
-Ruf Iris	Klassenlehrerin 3. Real	iris.ruf@kslotten.ch
+Mitra Anita	Klassenlehrerin 4. Real	anita.mitra@kslotten.ch
+Ruf Iris	Fachlehrerin	iris.ruf@kslotten.ch
 Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
 Stocker Hansueli	Schulischer Heilpädagoge	hansueli.stocker@kslotten.ch
-Weiersmüller Ursula	Klassenlehrerin 1. Sek b	ursula.weiersmueller@kslotten.ch
+Weiersmüller Ursula	Klassenlehrerin 2. Sek b	ursula.weiersmueller@kslotten.ch

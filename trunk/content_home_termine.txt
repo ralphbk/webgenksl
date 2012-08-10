@@ -6,7 +6,7 @@
 	<col width="400" valign="top"/>
 	<tr>
 		<td>&nbsp;</td>
-  		<td bgcolor="#E0E0E0"><b>Schuljahr 2011 / 2012</b></td>
+  		<td bgcolor="#E0E0E0"><b>Schuljahr 2012 / 2013</b></td>
 		<td bgcolor="#E0E0E0"></td>
 	</tr>
 	<tr>
@@ -30,13 +30,13 @@
 		<td><b>5. - 9. März 2012</b></td>
 			<td>Projektwoche mit Skilager und für 3./4. Klassen Möglichkeit zum Schnuppern </td>
 	</tr>
--->
+
 	<tr>
 		<td>&nbsp;</td>
 		<td><b>11. Juli 2012</b></td>
 			<td>Zensurfeier für die 4. Klassen <br/>
 	</tr>
-
+-->
 	<tr>
 		<td>&nbsp;</td>
 		<td><br/></td>
@@ -53,10 +53,12 @@
 
 	<tr>
 		<td>&nbsp;</td>
-  		<td bgcolor="#E0E0E0"><b>Ferienplan 2011 / 2012</b></td>
+  		<td bgcolor="#E0E0E0"><b>Ferienplan 2012 / 2013</b></td>
 		<td bgcolor="#E0E0E0"></td>
 		<td bgcolor="#E0E0E0"></td>
 	</tr>
+<!--
+
 	<tr>
 		<td>&nbsp;</td>
 		<td><br/></td>
@@ -99,6 +101,7 @@
 		<td>13. Juli 2012</td>
 		<td>13. August 2012</td>
 	</tr>
+-->
 
 
 </table>

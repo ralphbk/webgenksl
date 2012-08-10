@@ -1,18 +1,17 @@
-Arnold Franz	Fachlehrer Werken	franz.arnold@kslotten.ch
-Borer Zacharias	Klassenlehrer 4. Real	zacharias.borer@kslotten.ch 
-Burki Sabine	Fachlehrerin	sabine.burki@kslotten.ch 
-Diesslin Irene	Klassenlehrerin 3. Real	irene.diesslin@kslotten.ch
-Etterli Anette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
-Fonfara Marion	Fachlehrerin Textiles Werken	marion.fonfara@kslotten.ch
+Burki Sabine	Klassenlehrerin 4. Real	sabine.burki@kslotten.ch 
+Etterli Annette	Fachlehrerin Hauswirtschaft	annette.etterli@kslotten.ch
+Hardouin Nathalie	Fachlehrerin Französisch	nathalie.hardouin@kslotten.ch
 Heer Stephan	Fachlehrer Englisch, Französisch	stephan.heer@kslotten.ch
-Höchle Marianne 	Klassenlehrerin 2. Real	marianne.hoechle@kslotten.ch
-Izgi Kadriye	Fachlehrerin Englisch	kadriye.izgi@kslotten.ch
+Höchle Marianne 	Klassenlehrerin 3. Real	marianne.hoechle@kslotten.ch
+Isenring Simone	Schulische Heilpädagogin	simone.isenring@kslotten.ch
 Koch Odete	Fachlehrerin Sport	odete.koch@kslotten.ch
 Moser Andrea	Fachlehrerin Textiles Werken	andrea.moser@kslotten.ch
+Piller Simone	Fachlehrerin Werken Metall	simone.piller@kslotten.ch
+Ramseier Kathrin	Klassenlehrerin 4. Real	kathrin.ramseier@kslotten.ch
 Sander Florian	Fachlehrer Englisch, Werken	florian.sander@kslotten.ch
-Siegrist Susi	Klassenlehrerin 4. Sek	susanne.siegrist@kslotten.ch
-Simone Isenring	Schulische Heilpädagogin	simone.isenring@kslotten.ch
-Vock Urs	Klassenlehrer 3. Sek	urs.vock@kslotten.ch
-Vock Verena	Fachlehrerin Biologie, BG, E&amp;R	verena.vock@kslotten.ch
+Schild Andreas	Fachlehrer Werken Metall	andreas.schild@kslotten.ch
+Schmid Susanne	Klassenlehrerin 1. Real	susanne.schmid@kslotten.ch
+Tanner Hansulrich	Klassenlehrer 4. Sek	hansulrich.tanner@kslotten.ch
+Vock Urs	Fachlehrer Werken Holz	urs.vock@kslotten.ch
 Wildi Andreas	Fachlehrer Musik	andreas.wildi@kslotten.ch
-Wyss Peter	Klassenlehrer 2. Sek	peter.wyss@kslotten.ch
+Wyss Peter	Klassenlehrer 3. Sek	peter.wyss@kslotten.ch
