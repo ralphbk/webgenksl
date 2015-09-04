@@ -1,0 +1,1 @@
+Primitive bash scripts to generate a website.
